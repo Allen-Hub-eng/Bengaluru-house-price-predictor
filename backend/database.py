@@ -1,53 +1,45 @@
-# --------------------------------------------------
-# DATABASE CONNECTION
-# --------------------------------------------------
-
 import os
-
 from pathlib import Path
-from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
-
-# --------------------------------------------------
-# 1. LOAD ENVIRONMENT VARIABLES
-# --------------------------------------------------
-
+# Project paths
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-
 ENV_PATH = PROJECT_ROOT / "backend" / ".env"
 
+# Load local environment variables.
+# On Render, environment variables are configured in the dashboard.
 load_dotenv(ENV_PATH)
 
-
-# --------------------------------------------------
-# 2. READ DATABASE URL
-# --------------------------------------------------
-
 DATABASE_URL = os.getenv("DATABASE_URL")
+TIDB_CA_PATH = os.getenv("TIDB_CA_PATH")
 
 if not DATABASE_URL:
-    raise RuntimeError(
-        "DATABASE_URL is missing. "
-        "Please configure it in backend/.env"
-    )
+    raise RuntimeError("DATABASE_URL is not configured")
 
+# Configure TLS certificate verification for TiDB Cloud.
+connect_args = {}
 
-# --------------------------------------------------
-# 3. CREATE DATABASE ENGINE
-# --------------------------------------------------
+if TIDB_CA_PATH:
+    if not Path(TIDB_CA_PATH).is_file():
+        raise RuntimeError(
+            f"TiDB CA certificate not found: {TIDB_CA_PATH}"
+        )
+
+    connect_args["ssl"] = {
+        "ca": TIDB_CA_PATH
+    }
 
 engine = create_engine(
     DATABASE_URL,
+    connect_args=connect_args,
     pool_pre_ping=True,
+    pool_size=3,
+    max_overflow=2,
+    pool_recycle=1800,
 )
-
-
-# --------------------------------------------------
-# 4. CREATE SESSION FACTORY
-# --------------------------------------------------
 
 SessionLocal = sessionmaker(
     autocommit=False,
@@ -55,23 +47,13 @@ SessionLocal = sessionmaker(
     bind=engine,
 )
 
-
-# --------------------------------------------------
-# 5. CREATE BASE CLASS
-# --------------------------------------------------
-
 Base = declarative_base()
 
-
-# --------------------------------------------------
-# 6. DATABASE SESSION DEPENDENCY
-# --------------------------------------------------
 
 def get_db():
     db = SessionLocal()
 
     try:
         yield db
-
     finally:
         db.close()

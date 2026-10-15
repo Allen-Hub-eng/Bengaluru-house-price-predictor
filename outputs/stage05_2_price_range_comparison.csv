@@ -1,0 +1,16 @@
+price_group,property_count,MAE,Model
+0-50 lakhs,638,11.441242833938777,A_Baseline_Random_Forest
+100-200 lakhs,449,38.35229288675929,A_Baseline_Random_Forest
+200-500 lakhs,244,84.52595749321964,A_Baseline_Random_Forest
+50-100 lakhs,1069,16.411022993347054,A_Baseline_Random_Forest
+500+ lakhs,63,363.8904327632762,A_Baseline_Random_Forest
+0-50 lakhs,638,11.157369985047945,B_Tuned_Random_Forest
+100-200 lakhs,449,38.178426001672726,B_Tuned_Random_Forest
+200-500 lakhs,244,84.10630378302368,B_Tuned_Random_Forest
+50-100 lakhs,1069,16.194723916101488,B_Tuned_Random_Forest
+500+ lakhs,63,360.9408277117041,B_Tuned_Random_Forest
+0-50 lakhs,638,10.04910118583836,C_Log_Transformed_Target
+100-200 lakhs,449,35.350779530645916,C_Log_Transformed_Target
+200-500 lakhs,244,85.77241253302833,C_Log_Transformed_Target
+50-100 lakhs,1069,15.108866955250763,C_Log_Transformed_Target
+500+ lakhs,63,409.50102220239665,C_Log_Transformed_Target

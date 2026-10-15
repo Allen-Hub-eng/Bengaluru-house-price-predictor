@@ -1,0 +1,83 @@
+EXTREME PREDICTION ERROR INVESTIGATION
+============================================================
+
+Prepared dataset records: 12311
+Test predictions analysed: 2463
+
+PRICE DISTRIBUTION
+------------------------------------------------------------
+count    12311.000000
+mean       112.880861
+std        147.959081
+min          9.000000
+25%         50.000000
+50%         71.500000
+75%        120.000000
+max       2912.000000
+
+TOP 25 ERROR RECORDS
+------------------------------------------------------------
+           location  total_sqft  bhk  bath  balcony  actual_price_lakhs  predicted_price_lakhs  absolute_error_lakhs  absolute_percentage_error
+              other     4350.00    4   8.0      NaN              2600.0             526.848667           2073.151333                  79.736590
+              other    10624.00    4   4.0      2.0              2340.0             720.763333           1619.236667                  69.198148
+           kothanur     9600.00    5   5.0      2.0               550.0            1942.130000           1392.130000                 253.114545
+       bommenahalli     3339.00    3   3.0      0.0               250.0            1549.725000           1299.725000                 519.890000
+     sarjapur  road     7800.00    5   6.0      NaN               385.0            1433.935000           1048.935000                 272.450649
+         chamrajpet     4050.00    9   7.0      1.0              1200.0             225.306000            974.694000                  81.224500
+              other    11338.00    6   9.0      1.0              1000.0            1878.450000            878.450000                  87.845000
+              other     4273.00    3   3.0      NaN              1100.0             349.595000            750.405000                  68.218636
+              other      425.00    1   1.0      1.0               750.0              17.517500            732.482500                  97.664333
+       indira nagar     2400.00    4   5.0      NaN              1250.0             534.037143            715.962857                  57.277029
+sector 1 hsr layout     2400.00    3   6.0      2.0               775.0             181.062500            593.937500                  76.637097
+sector 1 hsr layout     2400.00    4   5.0      NaN               775.0             189.646000            585.354000                  75.529548
+ mahalakshmi layout     4482.00    8   6.0      2.0               852.0             275.175917            576.824083                  67.702357
+              other     4000.00    5   4.0      2.0              1000.0             426.555000            573.445000                  57.344500
+ mahalakshmi layout     4320.00    9   7.0      2.0               821.0             254.359667            566.640333                  69.018311
+        koramangala     4000.00    5   5.0      0.0               800.0             256.502500            543.497500                  67.937187
+        benson town     5000.00    4   5.0      3.0               950.0             416.127500            533.872500                  56.197105
+ mahalakshmi layout     3750.00    4   4.0      0.0               760.0             247.522500            512.477500                  67.431250
+              other     5665.84    5   7.0      NaN               988.0             507.647333            480.352667                  48.618691
+   old airport road     3200.00    4   4.0      2.0               700.0             283.141667            416.858333                  59.551190
+             domlur     2400.00    6   4.0      1.0               600.0             194.043500            405.956500                  67.659417
+              other     4800.00    4   4.0      0.0               700.0             298.320000            401.680000                  57.382857
+              other     2040.00    5   4.0      1.0               500.0             113.090083            386.909917                  77.381983
+              other     4250.00    6   6.0      3.0               150.0             532.585000            382.585000                 255.056667
+              other     5400.00    4   4.0      NaN               250.0             597.477500            347.477500                 138.991000
+
+LOCATION CATEGORY ERROR ANALYSIS
+------------------------------------------------------------
+             location  property_count  mean_absolute_error  median_absolute_error  maximum_absolute_error  average_actual_price
+   mahalakshmi layout               4               420.16                 539.56                  576.82                645.75
+  sector 1 hsr layout               3               414.59                 585.35                  593.94                566.67
+         bommenahalli               4               342.40                  33.78                 1299.72                162.50
+1st block koramangala               2               236.49                 236.49                  316.87                255.00
+           chamrajpet               5               226.13                  17.54                  974.69                315.18
+          benson town               5               193.00                 166.91                  533.87                360.00
+         indira nagar              12               141.14                  82.86                  715.96                372.75
+           cooke town               2               120.40                 120.40                  180.04                337.50
+           seegehalli               4               113.98                  56.31                  343.06                166.25
+           giri nagar               3               111.73                 127.56                  148.93                342.33
+             kothanur              15               111.05                   2.99                 1392.13                123.20
+   1st phase jp nagar               5               110.08                  81.54                  287.30                249.00
+               domlur               7                97.57                  49.50                  405.96                233.14
+  1st block jayanagar               1                93.73                  93.73                   93.73                148.00
+          koramangala              10                89.74                  31.65                  543.50                217.20
+      cunningham road               3                80.80                  52.86                  175.55                681.00
+banashankari stage vi               2                79.75                  79.75                  159.39                130.19
+        hosakerehalli              10                76.94                  66.34                  248.70                217.62
+          beml layout               3                73.99                  34.97                  161.37                186.67
+   kumaraswami layout               9                73.82                  49.54                  232.22                157.33
+
+OTHER VS NAMED LOCATIONS
+------------------------------------------------------------
+ is_other_location  property_count  mean_absolute_error  median_absolute_error  average_actual_price location_group
+             False            1931            26.167260               9.619529            103.760414 named location
+              True             532            62.861515              21.225769            146.310385          other
+
+INTERPRETATION NOTE
+------------------------------------------------------------
+Large prediction errors do not automatically mean a record
+is incorrect. Inspect source data and property plausibility
+before excluding any observation.
+
+Location analysis CSV: C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_location_error_analysis.csv

@@ -1,0 +1,45 @@
+BENGALURU HOUSE PRICE PREDICTION
+STAGE 5.3: LOCATION STRATEGY REPORT
+=================================================================
+
+Training records: 9848
+Testing records: 2463
+
+LOCATION STRATEGY COMPARISON
+
+ Location_Threshold  Location_Categories_Kept  Training_Records  Testing_Records  Test_Locations_Unseen_In_Training  Test_Records_Grouped_As_Other     MAE     RMSE     R2  Median_Absolute_Error
+                 10                       206              9848             2463                                110                            648 34.3923  96.0415 0.5639                13.0230
+                  1                      1127              9848             2463                                110                            110 34.6047  99.5131 0.5319                13.4279
+                  5                       379              9848             2463                                110                            392 34.7303 100.0087 0.5272                13.3446
+                 20                       116              9848             2463                                110                            944 34.9506  98.6463 0.5400                12.9164
+
+PRICE-RANGE COMPARISON
+
+  price_group  property_count    MAE  Location_Threshold
+   0-50 lakhs             638  11.63                   1
+100-200 lakhs             449  37.97                   1
+200-500 lakhs             244  84.43                   1
+ 50-100 lakhs            1069  15.70                   1
+   500+ lakhs              63 371.08                   1
+   0-50 lakhs             638  11.63                   5
+100-200 lakhs             449  37.64                   5
+200-500 lakhs             244  85.26                   5
+ 50-100 lakhs            1069  16.16                   5
+   500+ lakhs              63 367.30                   5
+   0-50 lakhs             638  11.48                  10
+100-200 lakhs             449  37.21                  10
+200-500 lakhs             244  84.72                  10
+ 50-100 lakhs            1069  16.56                  10
+   500+ lakhs              63 354.07                  10
+   0-50 lakhs             638  11.42                  20
+100-200 lakhs             449  37.89                  20
+200-500 lakhs             244  85.39                  20
+ 50-100 lakhs            1069  16.60                  20
+   500+ lakhs              63 368.42                  20
+
+Interpretation notes:
+- Lower MAE and RMSE indicate smaller prediction errors.
+- Higher R2 generally indicates better predictive fit.
+- Location thresholds are learned from training data only.
+- Results are specific to this test split.
+- The best threshold should be evaluated using several metrics.

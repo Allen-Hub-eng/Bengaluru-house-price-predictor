@@ -1,0 +1,23 @@
+BENGALURU HOUSE PRICE PREDICTION
+STAGE 4: MODEL TRAINING REPORT
+============================================================
+
+Usable dataset records: 12311
+Training records: 9848
+Testing records: 2463
+
+Input features:
+location, total_sqft, bhk, bath, balcony
+
+Target variable: price
+
+Model comparison:
+            Model       MAE       RMSE       R2
+    Random Forest 34.759443  97.797225 0.547859
+    Decision Tree 37.758894 107.655811 0.452108
+Gradient Boosting 37.786859 101.736265 0.510704
+Linear Regression 41.807096  91.864072 0.601056
+
+Best model by test MAE: Random Forest
+
+Note: The best model will be saved as a final production artifact in Stage 5.

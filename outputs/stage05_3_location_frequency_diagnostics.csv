@@ -1,0 +1,4509 @@
+location,training_count,threshold,retained
+whitefield,416,1,True
+sarjapur  road,302,1,True
+electronic city,223,1,True
+kanakpura road,191,1,True
+thanisandra,190,1,True
+yelahanka,158,1,True
+marathahalli,135,1,True
+hebbal,129,1,True
+raja rajeshwari nagar,122,1,True
+bannerghatta road,121,1,True
+hennur road,121,1,True
+7th phase jp nagar,109,1,True
+uttarahalli,109,1,True
+electronic city phase ii,100,1,True
+haralur road,82,1,True
+rajaji nagar,82,1,True
+bellandur,79,1,True
+yeshwanthpur,74,1,True
+kasavanhalli,72,1,True
+chandapura,70,1,True
+hoodi,65,1,True
+kr puram,64,1,True
+sarjapur,64,1,True
+harlur,62,1,True
+electronics city phase 1,62,1,True
+koramangala,60,1,True
+hormavu,59,1,True
+kengeri,57,1,True
+kaggadasapura,57,1,True
+jp nagar,56,1,True
+banashankari,56,1,True
+begur road,56,1,True
+old madras road,55,1,True
+ramamurthy nagar,55,1,True
+hosa road,52,1,True
+jakkur,51,1,True
+akshaya nagar,49,1,True
+varthur,49,1,True
+kothanur,47,1,True
+hulimavu,46,1,True
+malleshwaram,45,1,True
+brookefield,43,1,True
+gottigere,41,1,True
+ramagondanahalli,41,1,True
+8th phase jp nagar,41,1,True
+panathur,39,1,True
+hennur,39,1,True
+rachenahalli,39,1,True
+thigalarapalya,38,1,True
+yelahanka new town,38,1,True
+bisuvanahalli,36,1,True
+jalahalli,36,1,True
+kundalahalli,36,1,True
+jigani,35,1,True
+bommasandra,35,1,True
+budigere,34,1,True
+nagarbhavi,34,1,True
+kadugodi,34,1,True
+hegde nagar,34,1,True
+mysore road,34,1,True
+vijayanagar,33,1,True
+bhoganhalli,33,1,True
+frazer town,33,1,True
+kengeri satellite town,32,1,True
+green glen layout,32,1,True
+balagere,32,1,True
+horamavu agara,32,1,True
+tc palaya,32,1,True
+lakshminarayana pura,32,1,True
+subramanyapura,32,1,True
+cv raman nagar,31,1,True
+kanakapura,31,1,True
+sahakara nagar,31,1,True
+attibele,31,1,True
+kudlu gate,31,1,True
+indira nagar,31,1,True
+channasandra,30,1,True
+hebbal kempapura,29,1,True
+hosur road,28,1,True
+vidyaranyapura,28,1,True
+r.t. nagar,28,1,True
+devanahalli,28,1,True
+hsr layout,28,1,True
+talaghattapura,28,1,True
+basavangudi,27,1,True
+5th phase jp nagar,27,1,True
+tumkur road,26,1,True
+hosakerehalli,25,1,True
+9th phase jp nagar,25,1,True
+bommasandra industrial area,25,1,True
+vittasandra,25,1,True
+bommanahalli,25,1,True
+padmanabhanagar,24,1,True
+kodichikkanahalli,24,1,True
+mahadevpura,24,1,True
+ananth nagar,24,1,True
+ambedkar nagar,24,1,True
+doddathoguru,23,1,True
+chikkalasandra,23,1,True
+dodda nekkundi,23,1,True
+anekal,23,1,True
+kammasandra,22,1,True
+somasundara palya,22,1,True
+seegehalli,21,1,True
+horamavu banaswadi,21,1,True
+kudlu,21,1,True
+kothannur,21,1,True
+iblur village,21,1,True
+sonnenahalli,20,1,True
+singasandra,20,1,True
+babusapalaya,20,1,True
+ambalipura,20,1,True
+lingadheeranahalli,20,1,True
+gubbalala,20,1,True
+kalena agrahara,20,1,True
+old airport road,20,1,True
+thubarahalli,19,1,True
+rayasandra,19,1,True
+anandapura,19,1,True
+magadi road,19,1,True
+hoskote,18,1,True
+1st phase jp nagar,18,1,True
+amruthahalli,18,1,True
+btm 2nd stage,18,1,True
+kogilu,18,1,True
+margondanahalli,18,1,True
+sanjay nagar,17,1,True
+binny pete,17,1,True
+banashankari stage iii,17,1,True
+ardendale,17,1,True
+abbigere,16,1,True
+begur,16,1,True
+hrbr layout,16,1,True
+battarahalli,16,1,True
+yelachenahalli,16,1,True
+kalyan nagar,16,1,True
+sarjapura - attibele road,16,1,True
+gunjur,16,1,True
+epip zone,16,1,True
+kannamangala,16,1,True
+kaval byrasandra,15,1,True
+domlur,15,1,True
+bannerghatta,15,1,True
+munnekollal,15,1,True
+devarachikkanahalli,15,1,True
+choodasandra,15,1,True
+billekahalli,15,1,True
+kaggalipura,15,1,True
+cooke town,14,1,True
+dasanapura,14,1,True
+ulsoor,14,1,True
+hbr layout,14,1,True
+ombr layout,14,1,True
+6th phase jp nagar,14,1,True
+chikka tirupathi,14,1,True
+banashankari stage ii,14,1,True
+nri layout,14,1,True
+kathriguppe,14,1,True
+kumaraswami layout,14,1,True
+kambipura,13,1,True
+arekere,13,1,True
+sector 2 hsr layout,13,1,True
+kaikondrahalli,13,1,True
+basaveshwara nagar,13,1,True
+kodihalli,13,1,True
+poorna pragna layout,13,1,True
+kereguddadahalli,13,1,True
+judicial layout,13,1,True
+kammanahalli,13,1,True
+pai layout,13,1,True
+dasarahalli,12,1,True
+varthur road,12,1,True
+garudachar palya,12,1,True
+kasturi nagar,12,1,True
+banaswadi,12,1,True
+nagavara,12,1,True
+2nd stage nagarbhavi,12,1,True
+btm layout,12,1,True
+anjanapura,12,1,True
+lb shastri nagar,11,1,True
+prithvi layout,11,1,True
+karuna nagar,11,1,True
+yelenahalli,11,1,True
+malleshpalya,11,1,True
+banashankari stage vi,11,1,True
+chikkabanavar,11,1,True
+mallasandra,11,1,True
+1st block jayanagar,11,1,True
+murugeshpalya,11,1,True
+sompura,11,1,True
+gollarapalya hosahalli,11,1,True
+shivaji nagar,10,1,True
+jalahalli east,10,1,True
+kadubeesanahalli,10,1,True
+dairy circle,10,1,True
+benson town,10,1,True
+sector 7 hsr layout,10,1,True
+bharathi nagar,10,1,True
+isro layout,10,1,True
+cunningham road,10,1,True
+kodigehaali,10,1,True
+giri nagar,10,1,True
+itpl,10,1,True
+sultan palaya,10,1,True
+nagasandra,10,1,True
+cox town,10,1,True
+chamrajpet,9,1,True
+laggere,9,1,True
+4th block koramangala,9,1,True
+banashankari stage v,9,1,True
+nehru nagar,9,1,True
+nagavarapalya,9,1,True
+doddakallasandra,9,1,True
+dommasandra,9,1,True
+sarakki nagar,9,1,True
+yemlur,9,1,True
+kenchenahalli,9,1,True
+neeladri nagar,9,1,True
+ngr layout,9,1,True
+marsur,9,1,True
+5th block hbr layout,9,1,True
+basapura,9,1,True
+rajiv nagar,9,1,True
+shampura,9,1,True
+kamakshipalya,9,1,True
+mico layout,9,1,True
+shikaripalya,8,1,True
+kalkere,8,1,True
+b narayanapura,8,1,True
+mahalakshmi layout,8,1,True
+gollahalli,8,1,True
+gm palaya,8,1,True
+vasanthapura,8,1,True
+gunjur palya,8,1,True
+1st block koramangala,8,1,True
+nagappa reddy layout,8,1,True
+ganga nagar,8,1,True
+hal 2nd stage,8,1,True
+kaverappa layout,8,1,True
+doddaballapur,8,1,True
+sadashiva nagar,8,1,True
+sector 1 hsr layout,7,1,True
+doddakammanahalli,7,1,True
+ejipura,7,1,True
+"hoodi circle,",7,1,True
+tindlu,7,1,True
+richmond town,7,1,True
+basavanapura,7,1,True
+doctors layout,7,1,True
+keshava nagar,7,1,True
+kodigehalli,7,1,True
+reliaable tranquil layout,7,1,True
+konanakunte,7,1,True
+dodda nekkundi extension,7,1,True
+banjara layout,7,1,True
+jakkur plantation,7,1,True
+nallurhalli,7,1,True
+8th block koramangala,7,1,True
+gopalkrishna nagar,7,1,True
+naganathapura,7,1,True
+thyagaraja nagar,7,1,True
+roopena agrahara,7,1,True
+byrasandra,7,1,True
+victoria layout,7,1,True
+pattandur agrahara,7,1,True
+banagiri nagar,7,1,True
+kanaka nagar,7,1,True
+chennammana kere,7,1,True
+dodsworth layout,7,1,True
+vasanth nagar,7,1,True
+bommenahalli,7,1,True
+beml layout,7,1,True
+volagerekallahalli,7,1,True
+madiwala,7,1,True
+3rd block hrbr layout,6,1,True
+2nd phase judicial layout,6,1,True
+seetharampalya,6,1,True
+cambridge layout,6,1,True
+hennur gardens,6,1,True
+ashwathnagar,6,1,True
+aecs layout,6,1,True
+mathikere,6,1,True
+2nd phase jp nagar,6,1,True
+vishwapriya layout,6,1,True
+kumara park,6,1,True
+1st block hrbr layout,6,1,True
+nagawara junction,6,1,True
+akshayanagara east,6,1,True
+nelamangala,6,1,True
+thirumenahalli,6,1,True
+medahalli,6,1,True
+"sarjapur road,",6,1,True
+2nd block hrbr layout,6,1,True
+ms pallya,6,1,True
+vishwanatha nagenahalli,6,1,True
+byatarayanapura,6,1,True
+vignana nagar,6,1,True
+venkatapura,6,1,True
+austin town,6,1,True
+shanti nagar,6,1,True
+byadarahalli,6,1,True
+cholanayakanahalli,6,1,True
+richards town,6,1,True
+narayanapura,6,1,True
+parappana agrahara,6,1,True
+badavala nagar,6,1,True
+peenya,6,1,True
+sidedahalli,6,1,True
+ittamadu,6,1,True
+byrathi village,6,1,True
+devarabeesana halli,6,1,True
+vishveshwarya layout,6,1,True
+nagadevanahalli,6,1,True
+huskur,6,1,True
+"off sarjapur road,",5,1,True
+attur layout,5,1,True
+abbaiah reddy layout,5,1,True
+jayanagar,5,1,True
+chelekare,5,1,True
+srinivasa nagar,5,1,True
+stage-4 bommanahalli,5,1,True
+basaveshwara nagar yelahanka,5,1,True
+shree ananth nagar layout,5,1,True
+a narayanapura,5,1,True
+sathya sai layout,5,1,True
+doddanakundi industrial area 2,5,1,True
+green view layout,5,1,True
+amruthnagar,5,1,True
+vajarahalli,5,1,True
+suraksha nagar,5,1,True
+samethanahalli,5,1,True
+vasantha vallabha nagar,5,1,True
+defence colony,5,1,True
+wilson garden,5,1,True
+4th t block jayanagar,5,1,True
+hongasandra,5,1,True
+dollars colony,5,1,True
+6th block koramangala,5,1,True
+ramanjaneyanagar,5,1,True
+outer ring road east,5,1,True
+coconut grove layout,5,1,True
+jeevan bima nagar,5,1,True
+ashirvad colony,5,1,True
+varanasi,5,1,True
+new thippasandra,5,1,True
+lavelle road,5,1,True
+ashwath nagar,5,1,True
+amblipura,5,1,True
+hmt layout,5,1,True
+motappa layout,5,1,True
+hoysalanagar,5,1,True
+hiremath layout,5,1,True
+shanthala nagar,5,1,True
+bagalur,5,1,True
+doddanekundi,5,1,True
+chikkadunnasandra,5,1,True
+kattigenahalli,5,1,True
+ramakrishnappa layout,5,1,True
+hessarghatta,5,1,True
+kundalahalli colony,5,1,True
+srirampura,5,1,True
+kacharakanahalli,5,1,True
+channasandra layout,5,1,True
+tejaswini nagar,5,1,True
+munivenkatppa layout,5,1,True
+maruthi sevanagar,5,1,True
+chandra layout,5,1,True
+gopalapura,5,1,True
+vijaya bank layout,5,1,True
+meenakunte,5,1,True
+doddabommasandra,5,1,True
+manayata tech park,5,1,True
+ambedkar colony,5,1,True
+bank of baroda colony,5,1,True
+doddakannelli,5,1,True
+3rd block banashankari,5,1,True
+kodbisanhalli,5,1,True
+kadabagere,5,1,True
+shantiniketan layout,5,1,True
+sai gardens,4,1,True
+suddaguntepalya,4,1,True
+vgp layout,4,1,True
+geddalahalli,4,1,True
+doopanahalli,4,1,True
+raja rajeshwari nagar 5th stage,4,1,True
+nayandanahalli,4,1,True
+lingarajapuram,4,1,True
+mallathahalli,4,1,True
+bagalur main road,4,1,True
+akshya nagar,4,1,True
+sector 6 hsr layout,4,1,True
+canara bank colony,4,1,True
+tc.palya,4,1,True
+devi nagar,4,1,True
+glass factory layout,4,1,True
+tala cauvery layout,4,1,True
+chennappa layout,4,1,True
+singapura village,4,1,True
+maragondanahalli,4,1,True
+herohalli,4,1,True
+avalahalli,4,1,True
+anand nagar,4,1,True
+ags layout,4,1,True
+alfa garden layout,4,1,True
+udayapur village,4,1,True
+mahalakshmi puram,4,1,True
+harsha layout,4,1,True
+varsova layout,4,1,True
+hennur bande,4,1,True
+devasthanagalu,4,1,True
+kuvempu nagar,4,1,True
+kada agrahara,4,1,True
+chikkathoguru,4,1,True
+akshaya vana,4,1,True
+old gurappanapalya,4,1,True
+maithri layout,4,1,True
+siddapura,4,1,True
+bikasipura,4,1,True
+4th block jayanagar,4,1,True
+"judicial layout, kanakapura road,",4,1,True
+jalahalli west,4,1,True
+immadihalli,4,1,True
+vishwapriya nagar,4,1,True
+nagashetty halli,4,1,True
+dodda banaswadi,4,1,True
+btm 1st stage,4,1,True
+nyanappana halli,4,1,True
+kr garden,4,1,True
+rmv extension,4,1,True
+ams layout,4,1,True
+basavanagara,4,1,True
+rustam bagh layout,4,1,True
+byagadadhenahalli,4,1,True
+srirampuram,4,1,True
+palace guttahalli,4,1,True
+bsm extension,3,1,True
+vaishnavi layout,3,1,True
+thippasandra,3,1,True
+chikkasandra,3,1,True
+vinayak nagar,3,1,True
+nagaraja garden,3,1,True
+hosapalya,3,1,True
+canara bank layout,3,1,True
+pampa extension,3,1,True
+dasappa layout,3,1,True
+"electronic city phase 1,",3,1,True
+telecom layout,3,1,True
+konena agrahara,3,1,True
+lakshmipura,3,1,True
+nagondanahalli,3,1,True
+kavika layout,3,1,True
+sanjeevini nagar,3,1,True
+virat nagar,3,1,True
+bethel nagar,3,1,True
+9th block jayanagar,3,1,True
+raghuvanahalli,3,1,True
+rajiv gandhi nagar,3,1,True
+mysore highway,3,1,True
+2nd block jayanagar,3,1,True
+tunganagara,3,1,True
+silver springs layout,3,1,True
+tasker town,3,1,True
+virupakshapura,3,1,True
+kumarapalli,3,1,True
+baba nagar,3,1,True
+bidadi,3,1,True
+new gurappana palya,3,1,True
+pragathi nagar,3,1,True
+tata nagar,3,1,True
+t.c palya,3,1,True
+bhel layout,3,1,True
+rmv 2nd stage,3,1,True
+doddabanahalli,3,1,True
+jayanti nagar,3,1,True
+lavakusha nagar,3,1,True
+jcr layout,3,1,True
+vinayaka nagar,3,1,True
+puttanahalli,3,1,True
+bel road,3,1,True
+seshadripuram,3,1,True
+harappanahalli,3,1,True
+brooke bond first cross,3,1,True
+anantapura,3,1,True
+bhuvaneshwari nagar,3,1,True
+b channasandra,3,1,True
+basavanna nagar,3,1,True
+bhuvaneswari nagar,3,1,True
+iti layout,3,1,True
+vittal nagar,3,1,True
+narayana nagar 1st block,3,1,True
+kenchenhalli,3,1,True
+jakkuru layout,3,1,True
+tavarekere,3,1,True
+smv layout,3,1,True
+doddagubbi,3,1,True
+mcechs  layout,3,1,True
+konanakunte cross,3,1,True
+kudlu main road,3,1,True
+singanayakanahalli,3,1,True
+sri balaji krupa layout,3,1,True
+anjappa layout,3,1,True
+krishna reddy layout,3,1,True
+udaya nagar,3,1,True
+domlur layout,3,1,True
+kaveri nagar,3,1,True
+esther enclave layout,3,1,True
+laxmi sagar layout,3,1,True
+shankarapuram,3,1,True
+ashwini layout,3,1,True
+mylasandra,3,1,True
+jakkasandra extension,3,1,True
+rwf west colony,3,1,True
+rmv,3,1,True
+gulimangala,3,1,True
+jnanabharathi layout,3,1,True
+chinnapanahalli,3,1,True
+hanumanth nagar,3,1,True
+maruthi nagar,3,1,True
+ullal road,3,1,True
+rajarajeshwari nagara,3,1,True
+7th block jayanagar,3,1,True
+bellari road,3,1,True
+poornapragna housing society layout,3,1,True
+kothnur narayanapura,3,1,True
+venugopal reddy layout,3,1,True
+alur,3,1,True
+makali,3,1,True
+bileshivale,3,1,True
+1st stage indira nagar,3,1,True
+hanumantha nagar,3,1,True
+ngef layout,3,1,True
+langford town,3,1,True
+btm 4th stage,3,1,True
+4th phase jp nagar,3,1,True
+bhagyalakshmi avenue,3,1,True
+sanne amanikere,3,1,True
+race course road,2,1,True
+pulkeshi nagar,2,1,True
+govindpura,2,1,True
+manjunatha layout,2,1,True
+divya unnathi layout,2,1,True
+gokula extension,2,1,True
+j c nagar,2,1,True
+srinivas colony,2,1,True
+daadys gaarden layout,2,1,True
+"jp nagar 7th phase,",2,1,True
+kammagondahalli,2,1,True
+rajarajeshwarinagar,2,1,True
+uday nagar,2,1,True
+kr layout,2,1,True
+thanisandra main road,2,1,True
+mathikere extension,2,1,True
+remco bhel layout,2,1,True
+annapurneshwari nagar,2,1,True
+ramamurthy nagar extension,2,1,True
+venkatadri layout,2,1,True
+2nd block bel layout,2,1,True
+palace road,2,1,True
+aishwarya crystal layout,2,1,True
+himagiri meadows,2,1,True
+postal colony,2,1,True
+kempapura,2,1,True
+anjana nagar,2,1,True
+hunasamaranahalli,2,1,True
+silk board,2,1,True
+cqal layout,2,1,True
+sathya layout,2,1,True
+sadanand nagar,2,1,True
+govindaraja nagar ward,2,1,True
+kurubarahalli,2,1,True
+omkar nagar,2,1,True
+belatur,2,1,True
+kullappa colony,2,1,True
+p&t layout,2,1,True
+3rd block koramangala,2,1,True
+near international airport,2,1,True
+kirloskar layout,2,1,True
+dollars layout,2,1,True
+nanjappa layout,2,1,True
+hosahalli extension,2,1,True
+shettigere,2,1,True
+ramanashree enclave,2,1,True
+shanthi layout,2,1,True
+manjunath nagar,2,1,True
+sadaramangala,2,1,True
+moodalapalya,2,1,True
+kashi nagar,2,1,True
+church street,2,1,True
+gattahalli,2,1,True
+rajarajeshwari nagar,2,1,True
+bagalakunte,2,1,True
+chennammanakere achukattu,2,1,True
+kariyammana agrahara,2,1,True
+krishna nagar,2,1,True
+veersandra,2,1,True
+brindavan nagar,2,1,True
+govindapura,2,1,True
+off bannergatta road,2,1,True
+versova layout,2,1,True
+lottegolla halli,2,1,True
+rpc layout,2,1,True
+palanahalli,2,1,True
+kodathi,2,1,True
+shirdi sai layout,2,1,True
+belathur,2,1,True
+ns palya,2,1,True
+"varthur road,",2,1,True
+keb colony,2,1,True
+hosakerehalli layout,2,1,True
+geleyara balaga layout,2,1,True
+gnana bharathi,2,1,True
+adityanagar,2,1,True
+classic paradise layout,2,1,True
+manyata park,2,1,True
+gkvk layout,2,1,True
+dinnur,2,1,True
+challaghatta,2,1,True
+devanahalli road,2,1,True
+teachers colony,2,1,True
+hal 3rd stage,2,1,True
+bhoopsandra,2,1,True
+crimson layout,2,1,True
+muneshwara nagar,2,1,True
+2nd stage arekere mico layout,2,1,True
+syndicate bank colony,2,1,True
+3rd block jayanagar,2,1,True
+patelappa layout,2,1,True
+amam enclave layout,2,1,True
+pattanagere,2,1,True
+doddabidrakallu,2,1,True
+vhbcs layout,2,1,True
+kallumantapa,2,1,True
+prashanth nagar,2,1,True
+nandini layout,2,1,True
+manorayana palya,2,1,True
+upadhyaya layout,2,1,True
+jaya mahal layout,2,1,True
+vibhutipura extension,2,1,True
+ramesh nagar,2,1,True
+rr layout,2,1,True
+dooravani nagar,2,1,True
+bcmc layout,2,1,True
+srinivasapura,2,1,True
+akshayanagara west,2,1,True
+green garden layout,2,1,True
+arishinakunte,2,1,True
+kamakya layout,2,1,True
+chikkakannalli,2,1,True
+dodda kempaiah layout,2,1,True
+kadugondanahalli,2,1,True
+subash nagar,2,1,True
+dr shivarama karantha nagar,2,1,True
+ankappa layout,2,1,True
+veerannapalya,2,1,True
+vivek nagar,2,1,True
+sarvabhouma nagar,2,1,True
+raghavendra layout,2,1,True
+gowdanapalya,2,1,True
+dwarka nagar,2,1,True
+hegganahalli,2,1,True
+ashok nagar,2,1,True
+vijinapura,2,1,True
+kachanayakanahalli,2,1,True
+kumbena agrahara,2,1,True
+agrahara dasarahalli,2,1,True
+beml layout 5th stage,2,1,True
+1st block hbr layout,2,1,True
+t dasarahalli,2,1,True
+jyothi nagar,2,1,True
+nandi hills,2,1,True
+coconut garden,2,1,True
+ksrtc layout,2,1,True
+jnana ganga nagar,2,1,True
+ganesha block,2,1,True
+kithaganur,2,1,True
+hagadur,2,1,True
+"whitefield,",2,1,True
+surabhi layout,2,1,True
+lake city,2,1,True
+3rd phase jp nagar,2,1,True
+gaurava nagar,2,1,True
+kengeri hobli,2,1,True
+mangammanapalya,2,1,True
+kamala nagar,2,1,True
+mariyannapalya,2,1,True
+sampangi rama nagar,2,1,True
+devanahalli int. airport,2,1,True
+anwar layout,2,1,True
+jayamahal,2,1,True
+muthurayya swamy layout,2,1,True
+tigalarpalya,2,1,True
+balaji gardens layout,2,1,True
+neelamangala,2,1,True
+guddadahalli,2,1,True
+dena bank colony,2,1,True
+omarbagh layout,2,1,True
+devasandra extension,2,1,True
+lakkasandra,2,1,True
+naidu layout,2,1,True
+d group employees layout,2,1,True
+jai bheema nagar,2,1,True
+weavers colony,2,1,True
+sunkadakatte,2,1,True
+mla layout,2,1,True
+andrahalli,2,1,True
+kodipalya,2,1,True
+kempegowda nagar,2,1,True
+annaiah reddy layout,2,1,True
+chokkanahalli,2,1,True
+someshwara layout,2,1,True
+"thanisandra main road,",2,1,True
+2nd block koramangala,2,1,True
+hoodi layout,2,1,True
+yeshwanthpur industrial suburb,2,1,True
+1st block bel layout,2,1,True
+thomas town,2,1,True
+chamundi nagar,2,1,True
+jinkethimmanahalli,2,1,True
+carmelaram,2,1,True
+hadosiddapura,2,1,True
+garebhavipalya,2,1,True
+sampigehalli,2,1,True
+hosur main road,2,1,True
+ferrar nagar,2,1,True
+mahaganapathy nagar,2,1,True
+rest house road,2,1,True
+frazertown,2,1,True
+sri venkateshpura layout,2,1,True
+chikka banaswadi,2,1,True
+vaderahalli,2,1,True
+old mangammanapalya road,1,1,True
+vasanthpura,1,1,True
+chikkajala,1,1,True
+bank avenue,1,1,True
+whitefiled,1,1,True
+cubbon road,1,1,True
+mathikere sbm colony,1,1,True
+sampangirama nagar,1,1,True
+hsr layout sector3,1,1,True
+sunder ram shetty nagar,1,1,True
+nti layout,1,1,True
+lakshmi layout,1,1,True
+anjananager magdi road,1,1,True
+bds layout,1,1,True
+"banashankari 6th stage , 2nd block",1,1,True
+"asha township, off hennur road",1,1,True
+doddabele,1,1,True
+"near electronic city,",1,1,True
+byappanahalli,1,1,True
+wheelers road,1,1,True
+"rmv extension stage 2, rmv extension",1,1,True
+prestige sunrise,1,1,True
+3rd block hbr layout,1,1,True
+malur hosur road,1,1,True
+kg halli jalhalli west,1,1,True
+"jayanagar,",1,1,True
+indra nagar,1,1,True
+hal old airport road,1,1,True
+annasandrapalya,1,1,True
+srigandada kaval,1,1,True
+duvasapalya,1,1,True
+dwaraka nagar,1,1,True
+rajasree layout,1,1,True
+rainbow drive,1,1,True
+okalipura,1,1,True
+virudhu nagar,1,1,True
+"kanakapura road,",1,1,True
+punappa layout,1,1,True
+shakthi nagar,1,1,True
+raja rajeshwari nagara,1,1,True
+soppahalli,1,1,True
+kyalasanahalli,1,1,True
+navodaya nagar,1,1,True
+lakshmiamma garden,1,1,True
+kuvempu layout,1,1,True
+madanayakahalli,1,1,True
+mrcr layout,1,1,True
+khb colony extension,1,1,True
+st. john's road,1,1,True
+subhash nagar,1,1,True
+jogupalya,1,1,True
+indira nagar 3rd stage,1,1,True
+konappana agrahara,1,1,True
+adugodi,1,1,True
+chikkabidarakallu,1,1,True
+duddanahalli,1,1,True
+nobo nagar,1,1,True
+sadahalli,1,1,True
+doctor layout rayasandra,1,1,True
+hal layout,1,1,True
+thirupalya,1,1,True
+mvj engineering college,1,1,True
+atmananda colony,1,1,True
+udayagiri,1,1,True
+btm layout 2nd stage 1st phase,1,1,True
+abshot layout,1,1,True
+viviani road,1,1,True
+arasanakunte,1,1,True
+ramanagara channapatna,1,1,True
+basaveswarnagar,1,1,True
+sarvobhogam nagar,1,1,True
+jagajyothi layout,1,1,True
+"lakshminarayanapura, electronic city phase 2",1,1,True
+basava nagar,1,1,True
+shetty halli,1,1,True
+"banasawadi,",1,1,True
+kadarenahalli,1,1,True
+millers road,1,1,True
+banashankari 6th stage,1,1,True
+tharabanahalli,1,1,True
+suragajakkanahalli,1,1,True
+gandhi bazar,1,1,True
+"bidere agarahara, behind safal market",1,1,True
+coffee board layout,1,1,True
+"6th block banashankari 3rd stage, 100 feet orr",1,1,True
+"pai layout , mahadevapura",1,1,True
+sarjapur bagalur road,1,1,True
+"epip area, whitefield",1,1,True
+maheswari nagar,1,1,True
+gkw layout,1,1,True
+muthyala nagar,1,1,True
+sk garden,1,1,True
+rmv extension stage 2,1,1,True
+nirman layout,1,1,True
+vidya nagar,1,1,True
+maruthi hbcs layout,1,1,True
+queens road,1,1,True
+escorts colony,1,1,True
+rammana layout,1,1,True
+mukkutam nagar,1,1,True
+huttanahalli,1,1,True
+kasthuri nagar east of ngef,1,1,True
+adarsh nagar,1,1,True
+lic colony,1,1,True
+sathanur,1,1,True
+"ananthanagar phase 1,electronic city , phase 2",1,1,True
+whitefield ecc road,1,1,True
+k g colony,1,1,True
+binnamangala,1,1,True
+t r mill road,1,1,True
+badrappa layout,1,1,True
+sundara nagar,1,1,True
+rajarajesheari nagar,1,1,True
+nanjappa garden,1,1,True
+poornaprajna layout,1,1,True
+sugama layout,1,1,True
+friends colony,1,1,True
+akshaya nagar t c palya,1,1,True
+south,1,1,True
+amarjyothi colony,1,1,True
+prakash nagar,1,1,True
+6th block jayanagar,1,1,True
+bapuji nagar,1,1,True
+sabari nagar,1,1,True
+1st stage radha krishna layout,1,1,True
+cmh road,1,1,True
+sonam layout,1,1,True
+jakkuryelahanka,1,1,True
+jeevanhalli,1,1,True
+bidrahalli,1,1,True
+deepanjali nagar,1,1,True
+neelasandra,1,1,True
+virgonagar,1,1,True
+akash nagar,1,1,True
+doddanakunte,1,1,True
+prasanth extension,1,1,True
+"yelahanka,mvit college",1,1,True
+laxminarayana layout,1,1,True
+maruthi layout,1,1,True
+high grounds,1,1,True
+narayanappa garden,1,1,True
+thurahalli,1,1,True
+t c palya,1,1,True
+"mei layout, bagalgunte",1,1,True
+billamaranahalli,1,1,True
+govindraja nagar,1,1,True
+v.v puram,1,1,True
+rahmath nagar,1,1,True
+chikbasavanapura,1,1,True
+subramanya nagar,1,1,True
+singena agrahara,1,1,True
+gb palya,1,1,True
+gulakamale,1,1,True
+ilyas nagar,1,1,True
+sarjapura main road,1,1,True
+dollar scheme colony,1,1,True
+gopal reddy layout,1,1,True
+bahubali nagar,1,1,True
+dhanalakshmi layout,1,1,True
+maruthi extension,1,1,True
+air view colony,1,1,True
+kalhalli,1,1,True
+sree narayana nagar,1,1,True
+rr nagar,1,1,True
+shivanagar,1,1,True
+1a block koramangala,1,1,True
+kg halli,1,1,True
+jaya nagar east,1,1,True
+thyagraj nagar,1,1,True
+harohalli,1,1,True
+jaladarsini layout,1,1,True
+zuzuvadi,1,1,True
+marathalli bridge,1,1,True
+hullahalli,1,1,True
+madavara,1,1,True
+b k nagar,1,1,True
+indira nagar stage 2,1,1,True
+ckikkakammana halli,1,1,True
+shingapura,1,1,True
+srinagar,1,1,True
+kodanda reddy layout,1,1,True
+chikkagubbi,1,1,True
+kathriguppe iv phase,1,1,True
+vimanapura,1,1,True
+ramaswamy palya - kammanahalli main road,1,1,True
+3rd stage raja rajeshwari nagar,1,1,True
+lalbagh road,1,1,True
+m.g road,1,1,True
+viswapriyanagar.begur road.bommanahalli.,1,1,True
+richmond road,1,1,True
+brigade road,1,1,True
+kanakapur main road,1,1,True
+kannur,1,1,True
+mailasandra,1,1,True
+bande nallasandra,1,1,True
+kengeri satellite town ( bda site),1,1,True
+cleveland town,1,1,True
+phase 1 kammasandra,1,1,True
+3rd phase iti layout,1,1,True
+asthagrama layout,1,1,True
+pillahalli,1,1,True
+anugrah layout,1,1,True
+sahyadri layout,1,1,True
+handenahalli,1,1,True
+kamakiya,1,1,True
+"banashankari 6th stage ,subramanyapura",1,1,True
+binny mills employees colony,1,1,True
+shauhardha layout,1,1,True
+ullal uppanagar,1,1,True
+west of chord road,1,1,True
+b y raveshwara nagar,1,1,True
+panduranga nagar,1,1,True
+4 bedroom farm house in bagalur,1,1,True
+chuchangatta colony,1,1,True
+infantry road,1,1,True
+kalasipalya,1,1,True
+agb layout,1,1,True
+banashankari stage 2,1,1,True
+nanjappa layout vidyaranyapura,1,1,True
+"hsr layout 7th sector,",1,1,True
+"haralur road,",1,1,True
+duo layout,1,1,True
+raghavendra nagar,1,1,True
+papareddipalya,1,1,True
+sulthangunta,1,1,True
+veer sandra,1,1,True
+bennigana halli,1,1,True
+chikkatirupathi,1,1,True
+"kudlu village,",1,1,True
+lal bahadur shastri nagar,1,1,True
+"maragondana halli, kr puram, old madras road",1,1,True
+bandepalya,1,1,True
+near ramanashree california resort,1,1,True
+sri sai layout,1,1,True
+chikku lakshmaiah layout,1,1,True
+rto ullalu,1,1,True
+"white field,kadugodi",1,1,True
+6th block rajaji nagar,1,1,True
+"banaswadi,",1,1,True
+hanuman nagar,1,1,True
+kanakapura main road,1,1,True
+bel layout,1,1,True
+marasandra,1,1,True
+kanakadasa layout,1,1,True
+bcc layout,1,1,True
+bharathnagar,1,1,True
+kpc layout,1,1,True
+rahat bagh,1,1,True
+addischetan layout,1,1,True
+malimakanapura,1,1,True
+elachenahalli,1,1,True
+green domain layout,1,1,True
+halanayakanahalli,1,1,True
+hommadevanahalli,1,1,True
+reliable woods layout,1,1,True
+pns layout,1,1,True
+bhattarahalli,1,1,True
+havanur extension,1,1,True
+chellikere,1,1,True
+chambenahalli,1,1,True
+vijaypura,1,1,True
+kumbhena agrahara,1,1,True
+indranagar  100ft road defence colony,1,1,True
+javarandoddi,1,1,True
+"jp nagar 8th phase,",1,1,True
+t c palya main road,1,1,True
+pulikeshi nagar,1,1,True
+bagur road,1,1,True
+guni agrahara,1,1,True
+banagirinagar,1,1,True
+allalasandra,1,1,True
+viswajit layout,1,1,True
+popular colony,1,1,True
+kothnoor dinne,1,1,True
+banashankari3rd stage bigbazar,1,1,True
+vadarpalya,1,1,True
+ring road nagarbhavi,1,1,True
+prasanti nagar,1,1,True
+venkateswara nagar,1,1,True
+ramchandrapuram,1,1,True
+rbi layout,1,1,True
+gandhi nagar,1,1,True
+howthinarayanappa garden,1,1,True
+"beml layout, basaveshwara nagar",1,1,True
+jakkasandra,1,1,True
+cambridge  road,1,1,True
+aavalahalli,1,1,True
+xavier layout,1,1,True
+chikkanahalli,1,1,True
+green woods layout,1,1,True
+vittal mallya road,1,1,True
+singapura paradise,1,1,True
+basvasamithi layout vidyaranyapura,1,1,True
+kadubisnahalli,1,1,True
+iggalur,1,1,True
+nagarbhavi garden villas layout,1,1,True
+bilal nagar,1,1,True
+celebrity paradise layout,1,1,True
+12th cross srinivas nagar banshankari 3rd stage,1,1,True
+kengeri satellite town stage ii,1,1,True
+vikram nagar,1,1,True
+sampige layout,1,1,True
+s r layout,1,1,True
+maruthi nagar kogilu,1,1,True
+jaymahal road,1,1,True
+shanthi pura,1,1,True
+brindavan layout,1,1,True
+d souza layout,1,1,True
+gidada konnenahalli,1,1,True
+"jp nagar 9th phase,",1,1,True
+rajankunte,1,1,True
+hanumagiri,1,1,True
+iti employees layout,1,1,True
+billapura,1,1,True
+ganga nagar extension,1,1,True
+"ecc road, whitefield,",1,1,True
+vasatha vallbha nagar,1,1,True
+adigondanhalli,1,1,True
+anathanagar,1,1,True
+karnataka shabarimala,1,1,True
+"kirloskar layout, basaveshwarnagar",1,1,True
+sbm colony,1,1,True
+chowdeshwari layout,1,1,True
+st thomas town,1,1,True
+junnasandra,1,1,True
+goraguntepalya,1,1,True
+vayunandana layout,1,1,True
+vasantapura main road,1,1,True
+soundarya layout,1,1,True
+gattigere,1,1,True
+mallappa layout,1,1,True
+behind don bosco church,1,1,True
+"basnashankari,6th stage,",1,1,True
+kanakapura main  road,1,1,True
+marenahalli,1,1,True
+sector 4 hsr layout,1,1,True
+near ullas theater,1,1,True
+vinayaka layout,1,1,True
+kumbalgodu,1,1,True
+"tr mill road, chamarajpet",1,1,True
+chaitanya ananya,1,1,True
+8th block jayanagar,1,1,True
+suryanagar,1,1,True
+banashankari 2 nd stage,1,1,True
+prasanna layout herohalli,1,1,True
+"ravindra nagar, t.dasarahalli peenya",1,1,True
+sundar ram shetty nagar,1,1,True
+bendiganahalli,1,1,True
+shirdi sai nagar,1,1,True
+anekal - hosur road,1,1,True
+keerthi layout,1,1,True
+ncpr industrial layout,1,1,True
+arekempanahalli,1,1,True
+ganganahalli,1,1,True
+sadduguntepalya,1,1,True
+lakshmipura vidyaanyapura,1,1,True
+kathreguppe,1,1,True
+gd layout,1,1,True
+rajapura,1,1,True
+5th block jayanagar,1,1,True
+koppa,1,1,True
+prakruthi nagar,1,1,True
+defence layout,1,1,True
+4th block hbr layout,1,1,True
+upkar layout,1,1,True
+ayappa nagar,1,1,True
+janatha colony,1,1,True
+milk colony,1,1,True
+vidhyanagar cross,1,1,True
+kanakapura road,1,1,True
+indiranagar hal 2nd stage,1,1,True
+achins road,1,1,True
+kamdhenu nagar,1,1,True
+veerabhadra nagar,1,1,True
+"gubbi cross, hennur main road",1,1,True
+cooketown,1,1,True
+sneha colony,1,1,True
+hennagara,1,1,True
+agara village,1,1,True
+5th stage beml layout,1,1,True
+bharat nagar,1,1,True
+hosahalli,1,1,True
+t g extension,1,1,True
+"banashankari 3rd stage, vivekanandanagar",1,1,True
+sankeswari,1,1,True
+sadhguru layout,1,1,True
+gokaula extension,1,1,True
+jayamahal extension,1,1,True
+kalkere channasandra,1,1,True
+dominic layout,1,1,True
+venkateshpuram,1,1,True
+satyasaibaba layout,1,1,True
+hosur rmain road,1,1,True
+"annapoorneshwari layout, jp nagar 7th phase",1,1,True
+nandi durga road,1,1,True
+chokkasandra,1,1,True
+rajanna layout,1,1,True
+whitefield,416,5,True
+sarjapur  road,302,5,True
+electronic city,223,5,True
+kanakpura road,191,5,True
+thanisandra,190,5,True
+yelahanka,158,5,True
+marathahalli,135,5,True
+hebbal,129,5,True
+raja rajeshwari nagar,122,5,True
+bannerghatta road,121,5,True
+hennur road,121,5,True
+7th phase jp nagar,109,5,True
+uttarahalli,109,5,True
+electronic city phase ii,100,5,True
+haralur road,82,5,True
+rajaji nagar,82,5,True
+bellandur,79,5,True
+yeshwanthpur,74,5,True
+kasavanhalli,72,5,True
+chandapura,70,5,True
+hoodi,65,5,True
+kr puram,64,5,True
+sarjapur,64,5,True
+harlur,62,5,True
+electronics city phase 1,62,5,True
+koramangala,60,5,True
+hormavu,59,5,True
+kengeri,57,5,True
+kaggadasapura,57,5,True
+jp nagar,56,5,True
+banashankari,56,5,True
+begur road,56,5,True
+old madras road,55,5,True
+ramamurthy nagar,55,5,True
+hosa road,52,5,True
+jakkur,51,5,True
+akshaya nagar,49,5,True
+varthur,49,5,True
+kothanur,47,5,True
+hulimavu,46,5,True
+malleshwaram,45,5,True
+brookefield,43,5,True
+gottigere,41,5,True
+ramagondanahalli,41,5,True
+8th phase jp nagar,41,5,True
+panathur,39,5,True
+hennur,39,5,True
+rachenahalli,39,5,True
+thigalarapalya,38,5,True
+yelahanka new town,38,5,True
+bisuvanahalli,36,5,True
+jalahalli,36,5,True
+kundalahalli,36,5,True
+jigani,35,5,True
+bommasandra,35,5,True
+budigere,34,5,True
+nagarbhavi,34,5,True
+kadugodi,34,5,True
+hegde nagar,34,5,True
+mysore road,34,5,True
+vijayanagar,33,5,True
+bhoganhalli,33,5,True
+frazer town,33,5,True
+kengeri satellite town,32,5,True
+green glen layout,32,5,True
+balagere,32,5,True
+horamavu agara,32,5,True
+tc palaya,32,5,True
+lakshminarayana pura,32,5,True
+subramanyapura,32,5,True
+cv raman nagar,31,5,True
+kanakapura,31,5,True
+sahakara nagar,31,5,True
+attibele,31,5,True
+kudlu gate,31,5,True
+indira nagar,31,5,True
+channasandra,30,5,True
+hebbal kempapura,29,5,True
+hosur road,28,5,True
+vidyaranyapura,28,5,True
+r.t. nagar,28,5,True
+devanahalli,28,5,True
+hsr layout,28,5,True
+talaghattapura,28,5,True
+basavangudi,27,5,True
+5th phase jp nagar,27,5,True
+tumkur road,26,5,True
+hosakerehalli,25,5,True
+9th phase jp nagar,25,5,True
+bommasandra industrial area,25,5,True
+vittasandra,25,5,True
+bommanahalli,25,5,True
+padmanabhanagar,24,5,True
+kodichikkanahalli,24,5,True
+mahadevpura,24,5,True
+ananth nagar,24,5,True
+ambedkar nagar,24,5,True
+doddathoguru,23,5,True
+chikkalasandra,23,5,True
+dodda nekkundi,23,5,True
+anekal,23,5,True
+kammasandra,22,5,True
+somasundara palya,22,5,True
+seegehalli,21,5,True
+horamavu banaswadi,21,5,True
+kudlu,21,5,True
+kothannur,21,5,True
+iblur village,21,5,True
+sonnenahalli,20,5,True
+singasandra,20,5,True
+babusapalaya,20,5,True
+ambalipura,20,5,True
+lingadheeranahalli,20,5,True
+gubbalala,20,5,True
+kalena agrahara,20,5,True
+old airport road,20,5,True
+thubarahalli,19,5,True
+rayasandra,19,5,True
+anandapura,19,5,True
+magadi road,19,5,True
+hoskote,18,5,True
+1st phase jp nagar,18,5,True
+amruthahalli,18,5,True
+btm 2nd stage,18,5,True
+kogilu,18,5,True
+margondanahalli,18,5,True
+sanjay nagar,17,5,True
+binny pete,17,5,True
+banashankari stage iii,17,5,True
+ardendale,17,5,True
+abbigere,16,5,True
+begur,16,5,True
+hrbr layout,16,5,True
+battarahalli,16,5,True
+yelachenahalli,16,5,True
+kalyan nagar,16,5,True
+sarjapura - attibele road,16,5,True
+gunjur,16,5,True
+epip zone,16,5,True
+kannamangala,16,5,True
+kaval byrasandra,15,5,True
+domlur,15,5,True
+bannerghatta,15,5,True
+munnekollal,15,5,True
+devarachikkanahalli,15,5,True
+choodasandra,15,5,True
+billekahalli,15,5,True
+kaggalipura,15,5,True
+cooke town,14,5,True
+dasanapura,14,5,True
+ulsoor,14,5,True
+hbr layout,14,5,True
+ombr layout,14,5,True
+6th phase jp nagar,14,5,True
+chikka tirupathi,14,5,True
+banashankari stage ii,14,5,True
+nri layout,14,5,True
+kathriguppe,14,5,True
+kumaraswami layout,14,5,True
+kambipura,13,5,True
+arekere,13,5,True
+sector 2 hsr layout,13,5,True
+kaikondrahalli,13,5,True
+basaveshwara nagar,13,5,True
+kodihalli,13,5,True
+poorna pragna layout,13,5,True
+kereguddadahalli,13,5,True
+judicial layout,13,5,True
+kammanahalli,13,5,True
+pai layout,13,5,True
+dasarahalli,12,5,True
+varthur road,12,5,True
+garudachar palya,12,5,True
+kasturi nagar,12,5,True
+banaswadi,12,5,True
+nagavara,12,5,True
+2nd stage nagarbhavi,12,5,True
+btm layout,12,5,True
+anjanapura,12,5,True
+lb shastri nagar,11,5,True
+prithvi layout,11,5,True
+karuna nagar,11,5,True
+yelenahalli,11,5,True
+malleshpalya,11,5,True
+banashankari stage vi,11,5,True
+chikkabanavar,11,5,True
+mallasandra,11,5,True
+1st block jayanagar,11,5,True
+murugeshpalya,11,5,True
+sompura,11,5,True
+gollarapalya hosahalli,11,5,True
+shivaji nagar,10,5,True
+jalahalli east,10,5,True
+kadubeesanahalli,10,5,True
+dairy circle,10,5,True
+benson town,10,5,True
+sector 7 hsr layout,10,5,True
+bharathi nagar,10,5,True
+isro layout,10,5,True
+cunningham road,10,5,True
+kodigehaali,10,5,True
+giri nagar,10,5,True
+itpl,10,5,True
+sultan palaya,10,5,True
+nagasandra,10,5,True
+cox town,10,5,True
+chamrajpet,9,5,True
+laggere,9,5,True
+4th block koramangala,9,5,True
+banashankari stage v,9,5,True
+nehru nagar,9,5,True
+nagavarapalya,9,5,True
+doddakallasandra,9,5,True
+dommasandra,9,5,True
+sarakki nagar,9,5,True
+yemlur,9,5,True
+kenchenahalli,9,5,True
+neeladri nagar,9,5,True
+ngr layout,9,5,True
+marsur,9,5,True
+5th block hbr layout,9,5,True
+basapura,9,5,True
+rajiv nagar,9,5,True
+shampura,9,5,True
+kamakshipalya,9,5,True
+mico layout,9,5,True
+shikaripalya,8,5,True
+kalkere,8,5,True
+b narayanapura,8,5,True
+mahalakshmi layout,8,5,True
+gollahalli,8,5,True
+gm palaya,8,5,True
+vasanthapura,8,5,True
+gunjur palya,8,5,True
+1st block koramangala,8,5,True
+nagappa reddy layout,8,5,True
+ganga nagar,8,5,True
+hal 2nd stage,8,5,True
+kaverappa layout,8,5,True
+doddaballapur,8,5,True
+sadashiva nagar,8,5,True
+sector 1 hsr layout,7,5,True
+doddakammanahalli,7,5,True
+ejipura,7,5,True
+"hoodi circle,",7,5,True
+tindlu,7,5,True
+richmond town,7,5,True
+basavanapura,7,5,True
+doctors layout,7,5,True
+keshava nagar,7,5,True
+kodigehalli,7,5,True
+reliaable tranquil layout,7,5,True
+konanakunte,7,5,True
+dodda nekkundi extension,7,5,True
+banjara layout,7,5,True
+jakkur plantation,7,5,True
+nallurhalli,7,5,True
+8th block koramangala,7,5,True
+gopalkrishna nagar,7,5,True
+naganathapura,7,5,True
+thyagaraja nagar,7,5,True
+roopena agrahara,7,5,True
+byrasandra,7,5,True
+victoria layout,7,5,True
+pattandur agrahara,7,5,True
+banagiri nagar,7,5,True
+kanaka nagar,7,5,True
+chennammana kere,7,5,True
+dodsworth layout,7,5,True
+vasanth nagar,7,5,True
+bommenahalli,7,5,True
+beml layout,7,5,True
+volagerekallahalli,7,5,True
+madiwala,7,5,True
+3rd block hrbr layout,6,5,True
+2nd phase judicial layout,6,5,True
+seetharampalya,6,5,True
+cambridge layout,6,5,True
+hennur gardens,6,5,True
+ashwathnagar,6,5,True
+aecs layout,6,5,True
+mathikere,6,5,True
+2nd phase jp nagar,6,5,True
+vishwapriya layout,6,5,True
+kumara park,6,5,True
+1st block hrbr layout,6,5,True
+nagawara junction,6,5,True
+akshayanagara east,6,5,True
+nelamangala,6,5,True
+thirumenahalli,6,5,True
+medahalli,6,5,True
+"sarjapur road,",6,5,True
+2nd block hrbr layout,6,5,True
+ms pallya,6,5,True
+vishwanatha nagenahalli,6,5,True
+byatarayanapura,6,5,True
+vignana nagar,6,5,True
+venkatapura,6,5,True
+austin town,6,5,True
+shanti nagar,6,5,True
+byadarahalli,6,5,True
+cholanayakanahalli,6,5,True
+richards town,6,5,True
+narayanapura,6,5,True
+parappana agrahara,6,5,True
+badavala nagar,6,5,True
+peenya,6,5,True
+sidedahalli,6,5,True
+ittamadu,6,5,True
+byrathi village,6,5,True
+devarabeesana halli,6,5,True
+vishveshwarya layout,6,5,True
+nagadevanahalli,6,5,True
+huskur,6,5,True
+"off sarjapur road,",5,5,True
+attur layout,5,5,True
+abbaiah reddy layout,5,5,True
+jayanagar,5,5,True
+chelekare,5,5,True
+srinivasa nagar,5,5,True
+stage-4 bommanahalli,5,5,True
+basaveshwara nagar yelahanka,5,5,True
+shree ananth nagar layout,5,5,True
+a narayanapura,5,5,True
+sathya sai layout,5,5,True
+doddanakundi industrial area 2,5,5,True
+green view layout,5,5,True
+amruthnagar,5,5,True
+vajarahalli,5,5,True
+suraksha nagar,5,5,True
+samethanahalli,5,5,True
+vasantha vallabha nagar,5,5,True
+defence colony,5,5,True
+wilson garden,5,5,True
+4th t block jayanagar,5,5,True
+hongasandra,5,5,True
+dollars colony,5,5,True
+6th block koramangala,5,5,True
+ramanjaneyanagar,5,5,True
+outer ring road east,5,5,True
+coconut grove layout,5,5,True
+jeevan bima nagar,5,5,True
+ashirvad colony,5,5,True
+varanasi,5,5,True
+new thippasandra,5,5,True
+lavelle road,5,5,True
+ashwath nagar,5,5,True
+amblipura,5,5,True
+hmt layout,5,5,True
+motappa layout,5,5,True
+hoysalanagar,5,5,True
+hiremath layout,5,5,True
+shanthala nagar,5,5,True
+bagalur,5,5,True
+doddanekundi,5,5,True
+chikkadunnasandra,5,5,True
+kattigenahalli,5,5,True
+ramakrishnappa layout,5,5,True
+hessarghatta,5,5,True
+kundalahalli colony,5,5,True
+srirampura,5,5,True
+kacharakanahalli,5,5,True
+channasandra layout,5,5,True
+tejaswini nagar,5,5,True
+munivenkatppa layout,5,5,True
+maruthi sevanagar,5,5,True
+chandra layout,5,5,True
+gopalapura,5,5,True
+vijaya bank layout,5,5,True
+meenakunte,5,5,True
+doddabommasandra,5,5,True
+manayata tech park,5,5,True
+ambedkar colony,5,5,True
+bank of baroda colony,5,5,True
+doddakannelli,5,5,True
+3rd block banashankari,5,5,True
+kodbisanhalli,5,5,True
+kadabagere,5,5,True
+shantiniketan layout,5,5,True
+sai gardens,4,5,False
+suddaguntepalya,4,5,False
+vgp layout,4,5,False
+geddalahalli,4,5,False
+doopanahalli,4,5,False
+raja rajeshwari nagar 5th stage,4,5,False
+nayandanahalli,4,5,False
+lingarajapuram,4,5,False
+mallathahalli,4,5,False
+bagalur main road,4,5,False
+akshya nagar,4,5,False
+sector 6 hsr layout,4,5,False
+canara bank colony,4,5,False
+tc.palya,4,5,False
+devi nagar,4,5,False
+glass factory layout,4,5,False
+tala cauvery layout,4,5,False
+chennappa layout,4,5,False
+singapura village,4,5,False
+maragondanahalli,4,5,False
+herohalli,4,5,False
+avalahalli,4,5,False
+anand nagar,4,5,False
+ags layout,4,5,False
+alfa garden layout,4,5,False
+udayapur village,4,5,False
+mahalakshmi puram,4,5,False
+harsha layout,4,5,False
+varsova layout,4,5,False
+hennur bande,4,5,False
+devasthanagalu,4,5,False
+kuvempu nagar,4,5,False
+kada agrahara,4,5,False
+chikkathoguru,4,5,False
+akshaya vana,4,5,False
+old gurappanapalya,4,5,False
+maithri layout,4,5,False
+siddapura,4,5,False
+bikasipura,4,5,False
+4th block jayanagar,4,5,False
+"judicial layout, kanakapura road,",4,5,False
+jalahalli west,4,5,False
+immadihalli,4,5,False
+vishwapriya nagar,4,5,False
+nagashetty halli,4,5,False
+dodda banaswadi,4,5,False
+btm 1st stage,4,5,False
+nyanappana halli,4,5,False
+kr garden,4,5,False
+rmv extension,4,5,False
+ams layout,4,5,False
+basavanagara,4,5,False
+rustam bagh layout,4,5,False
+byagadadhenahalli,4,5,False
+srirampuram,4,5,False
+palace guttahalli,4,5,False
+bsm extension,3,5,False
+vaishnavi layout,3,5,False
+thippasandra,3,5,False
+chikkasandra,3,5,False
+vinayak nagar,3,5,False
+nagaraja garden,3,5,False
+hosapalya,3,5,False
+canara bank layout,3,5,False
+pampa extension,3,5,False
+dasappa layout,3,5,False
+"electronic city phase 1,",3,5,False
+telecom layout,3,5,False
+konena agrahara,3,5,False
+lakshmipura,3,5,False
+nagondanahalli,3,5,False
+kavika layout,3,5,False
+sanjeevini nagar,3,5,False
+virat nagar,3,5,False
+bethel nagar,3,5,False
+9th block jayanagar,3,5,False
+raghuvanahalli,3,5,False
+rajiv gandhi nagar,3,5,False
+mysore highway,3,5,False
+2nd block jayanagar,3,5,False
+tunganagara,3,5,False
+silver springs layout,3,5,False
+tasker town,3,5,False
+virupakshapura,3,5,False
+kumarapalli,3,5,False
+baba nagar,3,5,False
+bidadi,3,5,False
+new gurappana palya,3,5,False
+pragathi nagar,3,5,False
+tata nagar,3,5,False
+t.c palya,3,5,False
+bhel layout,3,5,False
+rmv 2nd stage,3,5,False
+doddabanahalli,3,5,False
+jayanti nagar,3,5,False
+lavakusha nagar,3,5,False
+jcr layout,3,5,False
+vinayaka nagar,3,5,False
+puttanahalli,3,5,False
+bel road,3,5,False
+seshadripuram,3,5,False
+harappanahalli,3,5,False
+brooke bond first cross,3,5,False
+anantapura,3,5,False
+bhuvaneshwari nagar,3,5,False
+b channasandra,3,5,False
+basavanna nagar,3,5,False
+bhuvaneswari nagar,3,5,False
+iti layout,3,5,False
+vittal nagar,3,5,False
+narayana nagar 1st block,3,5,False
+kenchenhalli,3,5,False
+jakkuru layout,3,5,False
+tavarekere,3,5,False
+smv layout,3,5,False
+doddagubbi,3,5,False
+mcechs  layout,3,5,False
+konanakunte cross,3,5,False
+kudlu main road,3,5,False
+singanayakanahalli,3,5,False
+sri balaji krupa layout,3,5,False
+anjappa layout,3,5,False
+krishna reddy layout,3,5,False
+udaya nagar,3,5,False
+domlur layout,3,5,False
+kaveri nagar,3,5,False
+esther enclave layout,3,5,False
+laxmi sagar layout,3,5,False
+shankarapuram,3,5,False
+ashwini layout,3,5,False
+mylasandra,3,5,False
+jakkasandra extension,3,5,False
+rwf west colony,3,5,False
+rmv,3,5,False
+gulimangala,3,5,False
+jnanabharathi layout,3,5,False
+chinnapanahalli,3,5,False
+hanumanth nagar,3,5,False
+maruthi nagar,3,5,False
+ullal road,3,5,False
+rajarajeshwari nagara,3,5,False
+7th block jayanagar,3,5,False
+bellari road,3,5,False
+poornapragna housing society layout,3,5,False
+kothnur narayanapura,3,5,False
+venugopal reddy layout,3,5,False
+alur,3,5,False
+makali,3,5,False
+bileshivale,3,5,False
+1st stage indira nagar,3,5,False
+hanumantha nagar,3,5,False
+ngef layout,3,5,False
+langford town,3,5,False
+btm 4th stage,3,5,False
+4th phase jp nagar,3,5,False
+bhagyalakshmi avenue,3,5,False
+sanne amanikere,3,5,False
+race course road,2,5,False
+pulkeshi nagar,2,5,False
+govindpura,2,5,False
+manjunatha layout,2,5,False
+divya unnathi layout,2,5,False
+gokula extension,2,5,False
+j c nagar,2,5,False
+srinivas colony,2,5,False
+daadys gaarden layout,2,5,False
+"jp nagar 7th phase,",2,5,False
+kammagondahalli,2,5,False
+rajarajeshwarinagar,2,5,False
+uday nagar,2,5,False
+kr layout,2,5,False
+thanisandra main road,2,5,False
+mathikere extension,2,5,False
+remco bhel layout,2,5,False
+annapurneshwari nagar,2,5,False
+ramamurthy nagar extension,2,5,False
+venkatadri layout,2,5,False
+2nd block bel layout,2,5,False
+palace road,2,5,False
+aishwarya crystal layout,2,5,False
+himagiri meadows,2,5,False
+postal colony,2,5,False
+kempapura,2,5,False
+anjana nagar,2,5,False
+hunasamaranahalli,2,5,False
+silk board,2,5,False
+cqal layout,2,5,False
+sathya layout,2,5,False
+sadanand nagar,2,5,False
+govindaraja nagar ward,2,5,False
+kurubarahalli,2,5,False
+omkar nagar,2,5,False
+belatur,2,5,False
+kullappa colony,2,5,False
+p&t layout,2,5,False
+3rd block koramangala,2,5,False
+near international airport,2,5,False
+kirloskar layout,2,5,False
+dollars layout,2,5,False
+nanjappa layout,2,5,False
+hosahalli extension,2,5,False
+shettigere,2,5,False
+ramanashree enclave,2,5,False
+shanthi layout,2,5,False
+manjunath nagar,2,5,False
+sadaramangala,2,5,False
+moodalapalya,2,5,False
+kashi nagar,2,5,False
+church street,2,5,False
+gattahalli,2,5,False
+rajarajeshwari nagar,2,5,False
+bagalakunte,2,5,False
+chennammanakere achukattu,2,5,False
+kariyammana agrahara,2,5,False
+krishna nagar,2,5,False
+veersandra,2,5,False
+brindavan nagar,2,5,False
+govindapura,2,5,False
+off bannergatta road,2,5,False
+versova layout,2,5,False
+lottegolla halli,2,5,False
+rpc layout,2,5,False
+palanahalli,2,5,False
+kodathi,2,5,False
+shirdi sai layout,2,5,False
+belathur,2,5,False
+ns palya,2,5,False
+"varthur road,",2,5,False
+keb colony,2,5,False
+hosakerehalli layout,2,5,False
+geleyara balaga layout,2,5,False
+gnana bharathi,2,5,False
+adityanagar,2,5,False
+classic paradise layout,2,5,False
+manyata park,2,5,False
+gkvk layout,2,5,False
+dinnur,2,5,False
+challaghatta,2,5,False
+devanahalli road,2,5,False
+teachers colony,2,5,False
+hal 3rd stage,2,5,False
+bhoopsandra,2,5,False
+crimson layout,2,5,False
+muneshwara nagar,2,5,False
+2nd stage arekere mico layout,2,5,False
+syndicate bank colony,2,5,False
+3rd block jayanagar,2,5,False
+patelappa layout,2,5,False
+amam enclave layout,2,5,False
+pattanagere,2,5,False
+doddabidrakallu,2,5,False
+vhbcs layout,2,5,False
+kallumantapa,2,5,False
+prashanth nagar,2,5,False
+nandini layout,2,5,False
+manorayana palya,2,5,False
+upadhyaya layout,2,5,False
+jaya mahal layout,2,5,False
+vibhutipura extension,2,5,False
+ramesh nagar,2,5,False
+rr layout,2,5,False
+dooravani nagar,2,5,False
+bcmc layout,2,5,False
+srinivasapura,2,5,False
+akshayanagara west,2,5,False
+green garden layout,2,5,False
+arishinakunte,2,5,False
+kamakya layout,2,5,False
+chikkakannalli,2,5,False
+dodda kempaiah layout,2,5,False
+kadugondanahalli,2,5,False
+subash nagar,2,5,False
+dr shivarama karantha nagar,2,5,False
+ankappa layout,2,5,False
+veerannapalya,2,5,False
+vivek nagar,2,5,False
+sarvabhouma nagar,2,5,False
+raghavendra layout,2,5,False
+gowdanapalya,2,5,False
+dwarka nagar,2,5,False
+hegganahalli,2,5,False
+ashok nagar,2,5,False
+vijinapura,2,5,False
+kachanayakanahalli,2,5,False
+kumbena agrahara,2,5,False
+agrahara dasarahalli,2,5,False
+beml layout 5th stage,2,5,False
+1st block hbr layout,2,5,False
+t dasarahalli,2,5,False
+jyothi nagar,2,5,False
+nandi hills,2,5,False
+coconut garden,2,5,False
+ksrtc layout,2,5,False
+jnana ganga nagar,2,5,False
+ganesha block,2,5,False
+kithaganur,2,5,False
+hagadur,2,5,False
+"whitefield,",2,5,False
+surabhi layout,2,5,False
+lake city,2,5,False
+3rd phase jp nagar,2,5,False
+gaurava nagar,2,5,False
+kengeri hobli,2,5,False
+mangammanapalya,2,5,False
+kamala nagar,2,5,False
+mariyannapalya,2,5,False
+sampangi rama nagar,2,5,False
+devanahalli int. airport,2,5,False
+anwar layout,2,5,False
+jayamahal,2,5,False
+muthurayya swamy layout,2,5,False
+tigalarpalya,2,5,False
+balaji gardens layout,2,5,False
+neelamangala,2,5,False
+guddadahalli,2,5,False
+dena bank colony,2,5,False
+omarbagh layout,2,5,False
+devasandra extension,2,5,False
+lakkasandra,2,5,False
+naidu layout,2,5,False
+d group employees layout,2,5,False
+jai bheema nagar,2,5,False
+weavers colony,2,5,False
+sunkadakatte,2,5,False
+mla layout,2,5,False
+andrahalli,2,5,False
+kodipalya,2,5,False
+kempegowda nagar,2,5,False
+annaiah reddy layout,2,5,False
+chokkanahalli,2,5,False
+someshwara layout,2,5,False
+"thanisandra main road,",2,5,False
+2nd block koramangala,2,5,False
+hoodi layout,2,5,False
+yeshwanthpur industrial suburb,2,5,False
+1st block bel layout,2,5,False
+thomas town,2,5,False
+chamundi nagar,2,5,False
+jinkethimmanahalli,2,5,False
+carmelaram,2,5,False
+hadosiddapura,2,5,False
+garebhavipalya,2,5,False
+sampigehalli,2,5,False
+hosur main road,2,5,False
+ferrar nagar,2,5,False
+mahaganapathy nagar,2,5,False
+rest house road,2,5,False
+frazertown,2,5,False
+sri venkateshpura layout,2,5,False
+chikka banaswadi,2,5,False
+vaderahalli,2,5,False
+old mangammanapalya road,1,5,False
+vasanthpura,1,5,False
+chikkajala,1,5,False
+bank avenue,1,5,False
+whitefiled,1,5,False
+cubbon road,1,5,False
+mathikere sbm colony,1,5,False
+sampangirama nagar,1,5,False
+hsr layout sector3,1,5,False
+sunder ram shetty nagar,1,5,False
+nti layout,1,5,False
+lakshmi layout,1,5,False
+anjananager magdi road,1,5,False
+bds layout,1,5,False
+"banashankari 6th stage , 2nd block",1,5,False
+"asha township, off hennur road",1,5,False
+doddabele,1,5,False
+"near electronic city,",1,5,False
+byappanahalli,1,5,False
+wheelers road,1,5,False
+"rmv extension stage 2, rmv extension",1,5,False
+prestige sunrise,1,5,False
+3rd block hbr layout,1,5,False
+malur hosur road,1,5,False
+kg halli jalhalli west,1,5,False
+"jayanagar,",1,5,False
+indra nagar,1,5,False
+hal old airport road,1,5,False
+annasandrapalya,1,5,False
+srigandada kaval,1,5,False
+duvasapalya,1,5,False
+dwaraka nagar,1,5,False
+rajasree layout,1,5,False
+rainbow drive,1,5,False
+okalipura,1,5,False
+virudhu nagar,1,5,False
+"kanakapura road,",1,5,False
+punappa layout,1,5,False
+shakthi nagar,1,5,False
+raja rajeshwari nagara,1,5,False
+soppahalli,1,5,False
+kyalasanahalli,1,5,False
+navodaya nagar,1,5,False
+lakshmiamma garden,1,5,False
+kuvempu layout,1,5,False
+madanayakahalli,1,5,False
+mrcr layout,1,5,False
+khb colony extension,1,5,False
+st. john's road,1,5,False
+subhash nagar,1,5,False
+jogupalya,1,5,False
+indira nagar 3rd stage,1,5,False
+konappana agrahara,1,5,False
+adugodi,1,5,False
+chikkabidarakallu,1,5,False
+duddanahalli,1,5,False
+nobo nagar,1,5,False
+sadahalli,1,5,False
+doctor layout rayasandra,1,5,False
+hal layout,1,5,False
+thirupalya,1,5,False
+mvj engineering college,1,5,False
+atmananda colony,1,5,False
+udayagiri,1,5,False
+btm layout 2nd stage 1st phase,1,5,False
+abshot layout,1,5,False
+viviani road,1,5,False
+arasanakunte,1,5,False
+ramanagara channapatna,1,5,False
+basaveswarnagar,1,5,False
+sarvobhogam nagar,1,5,False
+jagajyothi layout,1,5,False
+"lakshminarayanapura, electronic city phase 2",1,5,False
+basava nagar,1,5,False
+shetty halli,1,5,False
+"banasawadi,",1,5,False
+kadarenahalli,1,5,False
+millers road,1,5,False
+banashankari 6th stage,1,5,False
+tharabanahalli,1,5,False
+suragajakkanahalli,1,5,False
+gandhi bazar,1,5,False
+"bidere agarahara, behind safal market",1,5,False
+coffee board layout,1,5,False
+"6th block banashankari 3rd stage, 100 feet orr",1,5,False
+"pai layout , mahadevapura",1,5,False
+sarjapur bagalur road,1,5,False
+"epip area, whitefield",1,5,False
+maheswari nagar,1,5,False
+gkw layout,1,5,False
+muthyala nagar,1,5,False
+sk garden,1,5,False
+rmv extension stage 2,1,5,False
+nirman layout,1,5,False
+vidya nagar,1,5,False
+maruthi hbcs layout,1,5,False
+queens road,1,5,False
+escorts colony,1,5,False
+rammana layout,1,5,False
+mukkutam nagar,1,5,False
+huttanahalli,1,5,False
+kasthuri nagar east of ngef,1,5,False
+adarsh nagar,1,5,False
+lic colony,1,5,False
+sathanur,1,5,False
+"ananthanagar phase 1,electronic city , phase 2",1,5,False
+whitefield ecc road,1,5,False
+k g colony,1,5,False
+binnamangala,1,5,False
+t r mill road,1,5,False
+badrappa layout,1,5,False
+sundara nagar,1,5,False
+rajarajesheari nagar,1,5,False
+nanjappa garden,1,5,False
+poornaprajna layout,1,5,False
+sugama layout,1,5,False
+friends colony,1,5,False
+akshaya nagar t c palya,1,5,False
+south,1,5,False
+amarjyothi colony,1,5,False
+prakash nagar,1,5,False
+6th block jayanagar,1,5,False
+bapuji nagar,1,5,False
+sabari nagar,1,5,False
+1st stage radha krishna layout,1,5,False
+cmh road,1,5,False
+sonam layout,1,5,False
+jakkuryelahanka,1,5,False
+jeevanhalli,1,5,False
+bidrahalli,1,5,False
+deepanjali nagar,1,5,False
+neelasandra,1,5,False
+virgonagar,1,5,False
+akash nagar,1,5,False
+doddanakunte,1,5,False
+prasanth extension,1,5,False
+"yelahanka,mvit college",1,5,False
+laxminarayana layout,1,5,False
+maruthi layout,1,5,False
+high grounds,1,5,False
+narayanappa garden,1,5,False
+thurahalli,1,5,False
+t c palya,1,5,False
+"mei layout, bagalgunte",1,5,False
+billamaranahalli,1,5,False
+govindraja nagar,1,5,False
+v.v puram,1,5,False
+rahmath nagar,1,5,False
+chikbasavanapura,1,5,False
+subramanya nagar,1,5,False
+singena agrahara,1,5,False
+gb palya,1,5,False
+gulakamale,1,5,False
+ilyas nagar,1,5,False
+sarjapura main road,1,5,False
+dollar scheme colony,1,5,False
+gopal reddy layout,1,5,False
+bahubali nagar,1,5,False
+dhanalakshmi layout,1,5,False
+maruthi extension,1,5,False
+air view colony,1,5,False
+kalhalli,1,5,False
+sree narayana nagar,1,5,False
+rr nagar,1,5,False
+shivanagar,1,5,False
+1a block koramangala,1,5,False
+kg halli,1,5,False
+jaya nagar east,1,5,False
+thyagraj nagar,1,5,False
+harohalli,1,5,False
+jaladarsini layout,1,5,False
+zuzuvadi,1,5,False
+marathalli bridge,1,5,False
+hullahalli,1,5,False
+madavara,1,5,False
+b k nagar,1,5,False
+indira nagar stage 2,1,5,False
+ckikkakammana halli,1,5,False
+shingapura,1,5,False
+srinagar,1,5,False
+kodanda reddy layout,1,5,False
+chikkagubbi,1,5,False
+kathriguppe iv phase,1,5,False
+vimanapura,1,5,False
+ramaswamy palya - kammanahalli main road,1,5,False
+3rd stage raja rajeshwari nagar,1,5,False
+lalbagh road,1,5,False
+m.g road,1,5,False
+viswapriyanagar.begur road.bommanahalli.,1,5,False
+richmond road,1,5,False
+brigade road,1,5,False
+kanakapur main road,1,5,False
+kannur,1,5,False
+mailasandra,1,5,False
+bande nallasandra,1,5,False
+kengeri satellite town ( bda site),1,5,False
+cleveland town,1,5,False
+phase 1 kammasandra,1,5,False
+3rd phase iti layout,1,5,False
+asthagrama layout,1,5,False
+pillahalli,1,5,False
+anugrah layout,1,5,False
+sahyadri layout,1,5,False
+handenahalli,1,5,False
+kamakiya,1,5,False
+"banashankari 6th stage ,subramanyapura",1,5,False
+binny mills employees colony,1,5,False
+shauhardha layout,1,5,False
+ullal uppanagar,1,5,False
+west of chord road,1,5,False
+b y raveshwara nagar,1,5,False
+panduranga nagar,1,5,False
+4 bedroom farm house in bagalur,1,5,False
+chuchangatta colony,1,5,False
+infantry road,1,5,False
+kalasipalya,1,5,False
+agb layout,1,5,False
+banashankari stage 2,1,5,False
+nanjappa layout vidyaranyapura,1,5,False
+"hsr layout 7th sector,",1,5,False
+"haralur road,",1,5,False
+duo layout,1,5,False
+raghavendra nagar,1,5,False
+papareddipalya,1,5,False
+sulthangunta,1,5,False
+veer sandra,1,5,False
+bennigana halli,1,5,False
+chikkatirupathi,1,5,False
+"kudlu village,",1,5,False
+lal bahadur shastri nagar,1,5,False
+"maragondana halli, kr puram, old madras road",1,5,False
+bandepalya,1,5,False
+near ramanashree california resort,1,5,False
+sri sai layout,1,5,False
+chikku lakshmaiah layout,1,5,False
+rto ullalu,1,5,False
+"white field,kadugodi",1,5,False
+6th block rajaji nagar,1,5,False
+"banaswadi,",1,5,False
+hanuman nagar,1,5,False
+kanakapura main road,1,5,False
+bel layout,1,5,False
+marasandra,1,5,False
+kanakadasa layout,1,5,False
+bcc layout,1,5,False
+bharathnagar,1,5,False
+kpc layout,1,5,False
+rahat bagh,1,5,False
+addischetan layout,1,5,False
+malimakanapura,1,5,False
+elachenahalli,1,5,False
+green domain layout,1,5,False
+halanayakanahalli,1,5,False
+hommadevanahalli,1,5,False
+reliable woods layout,1,5,False
+pns layout,1,5,False
+bhattarahalli,1,5,False
+havanur extension,1,5,False
+chellikere,1,5,False
+chambenahalli,1,5,False
+vijaypura,1,5,False
+kumbhena agrahara,1,5,False
+indranagar  100ft road defence colony,1,5,False
+javarandoddi,1,5,False
+"jp nagar 8th phase,",1,5,False
+t c palya main road,1,5,False
+pulikeshi nagar,1,5,False
+bagur road,1,5,False
+guni agrahara,1,5,False
+banagirinagar,1,5,False
+allalasandra,1,5,False
+viswajit layout,1,5,False
+popular colony,1,5,False
+kothnoor dinne,1,5,False
+banashankari3rd stage bigbazar,1,5,False
+vadarpalya,1,5,False
+ring road nagarbhavi,1,5,False
+prasanti nagar,1,5,False
+venkateswara nagar,1,5,False
+ramchandrapuram,1,5,False
+rbi layout,1,5,False
+gandhi nagar,1,5,False
+howthinarayanappa garden,1,5,False
+"beml layout, basaveshwara nagar",1,5,False
+jakkasandra,1,5,False
+cambridge  road,1,5,False
+aavalahalli,1,5,False
+xavier layout,1,5,False
+chikkanahalli,1,5,False
+green woods layout,1,5,False
+vittal mallya road,1,5,False
+singapura paradise,1,5,False
+basvasamithi layout vidyaranyapura,1,5,False
+kadubisnahalli,1,5,False
+iggalur,1,5,False
+nagarbhavi garden villas layout,1,5,False
+bilal nagar,1,5,False
+celebrity paradise layout,1,5,False
+12th cross srinivas nagar banshankari 3rd stage,1,5,False
+kengeri satellite town stage ii,1,5,False
+vikram nagar,1,5,False
+sampige layout,1,5,False
+s r layout,1,5,False
+maruthi nagar kogilu,1,5,False
+jaymahal road,1,5,False
+shanthi pura,1,5,False
+brindavan layout,1,5,False
+d souza layout,1,5,False
+gidada konnenahalli,1,5,False
+"jp nagar 9th phase,",1,5,False
+rajankunte,1,5,False
+hanumagiri,1,5,False
+iti employees layout,1,5,False
+billapura,1,5,False
+ganga nagar extension,1,5,False
+"ecc road, whitefield,",1,5,False
+vasatha vallbha nagar,1,5,False
+adigondanhalli,1,5,False
+anathanagar,1,5,False
+karnataka shabarimala,1,5,False
+"kirloskar layout, basaveshwarnagar",1,5,False
+sbm colony,1,5,False
+chowdeshwari layout,1,5,False
+st thomas town,1,5,False
+junnasandra,1,5,False
+goraguntepalya,1,5,False
+vayunandana layout,1,5,False
+vasantapura main road,1,5,False
+soundarya layout,1,5,False
+gattigere,1,5,False
+mallappa layout,1,5,False
+behind don bosco church,1,5,False
+"basnashankari,6th stage,",1,5,False
+kanakapura main  road,1,5,False
+marenahalli,1,5,False
+sector 4 hsr layout,1,5,False
+near ullas theater,1,5,False
+vinayaka layout,1,5,False
+kumbalgodu,1,5,False
+"tr mill road, chamarajpet",1,5,False
+chaitanya ananya,1,5,False
+8th block jayanagar,1,5,False
+suryanagar,1,5,False
+banashankari 2 nd stage,1,5,False
+prasanna layout herohalli,1,5,False
+"ravindra nagar, t.dasarahalli peenya",1,5,False
+sundar ram shetty nagar,1,5,False
+bendiganahalli,1,5,False
+shirdi sai nagar,1,5,False
+anekal - hosur road,1,5,False
+keerthi layout,1,5,False
+ncpr industrial layout,1,5,False
+arekempanahalli,1,5,False
+ganganahalli,1,5,False
+sadduguntepalya,1,5,False
+lakshmipura vidyaanyapura,1,5,False
+kathreguppe,1,5,False
+gd layout,1,5,False
+rajapura,1,5,False
+5th block jayanagar,1,5,False
+koppa,1,5,False
+prakruthi nagar,1,5,False
+defence layout,1,5,False
+4th block hbr layout,1,5,False
+upkar layout,1,5,False
+ayappa nagar,1,5,False
+janatha colony,1,5,False
+milk colony,1,5,False
+vidhyanagar cross,1,5,False
+kanakapura road,1,5,False
+indiranagar hal 2nd stage,1,5,False
+achins road,1,5,False
+kamdhenu nagar,1,5,False
+veerabhadra nagar,1,5,False
+"gubbi cross, hennur main road",1,5,False
+cooketown,1,5,False
+sneha colony,1,5,False
+hennagara,1,5,False
+agara village,1,5,False
+5th stage beml layout,1,5,False
+bharat nagar,1,5,False
+hosahalli,1,5,False
+t g extension,1,5,False
+"banashankari 3rd stage, vivekanandanagar",1,5,False
+sankeswari,1,5,False
+sadhguru layout,1,5,False
+gokaula extension,1,5,False
+jayamahal extension,1,5,False
+kalkere channasandra,1,5,False
+dominic layout,1,5,False
+venkateshpuram,1,5,False
+satyasaibaba layout,1,5,False
+hosur rmain road,1,5,False
+"annapoorneshwari layout, jp nagar 7th phase",1,5,False
+nandi durga road,1,5,False
+chokkasandra,1,5,False
+rajanna layout,1,5,False
+whitefield,416,10,True
+sarjapur  road,302,10,True
+electronic city,223,10,True
+kanakpura road,191,10,True
+thanisandra,190,10,True
+yelahanka,158,10,True
+marathahalli,135,10,True
+hebbal,129,10,True
+raja rajeshwari nagar,122,10,True
+bannerghatta road,121,10,True
+hennur road,121,10,True
+7th phase jp nagar,109,10,True
+uttarahalli,109,10,True
+electronic city phase ii,100,10,True
+haralur road,82,10,True
+rajaji nagar,82,10,True
+bellandur,79,10,True
+yeshwanthpur,74,10,True
+kasavanhalli,72,10,True
+chandapura,70,10,True
+hoodi,65,10,True
+kr puram,64,10,True
+sarjapur,64,10,True
+harlur,62,10,True
+electronics city phase 1,62,10,True
+koramangala,60,10,True
+hormavu,59,10,True
+kengeri,57,10,True
+kaggadasapura,57,10,True
+jp nagar,56,10,True
+banashankari,56,10,True
+begur road,56,10,True
+old madras road,55,10,True
+ramamurthy nagar,55,10,True
+hosa road,52,10,True
+jakkur,51,10,True
+akshaya nagar,49,10,True
+varthur,49,10,True
+kothanur,47,10,True
+hulimavu,46,10,True
+malleshwaram,45,10,True
+brookefield,43,10,True
+gottigere,41,10,True
+ramagondanahalli,41,10,True
+8th phase jp nagar,41,10,True
+panathur,39,10,True
+hennur,39,10,True
+rachenahalli,39,10,True
+thigalarapalya,38,10,True
+yelahanka new town,38,10,True
+bisuvanahalli,36,10,True
+jalahalli,36,10,True
+kundalahalli,36,10,True
+jigani,35,10,True
+bommasandra,35,10,True
+budigere,34,10,True
+nagarbhavi,34,10,True
+kadugodi,34,10,True
+hegde nagar,34,10,True
+mysore road,34,10,True
+vijayanagar,33,10,True
+bhoganhalli,33,10,True
+frazer town,33,10,True
+kengeri satellite town,32,10,True
+green glen layout,32,10,True
+balagere,32,10,True
+horamavu agara,32,10,True
+tc palaya,32,10,True
+lakshminarayana pura,32,10,True
+subramanyapura,32,10,True
+cv raman nagar,31,10,True
+kanakapura,31,10,True
+sahakara nagar,31,10,True
+attibele,31,10,True
+kudlu gate,31,10,True
+indira nagar,31,10,True
+channasandra,30,10,True
+hebbal kempapura,29,10,True
+hosur road,28,10,True
+vidyaranyapura,28,10,True
+r.t. nagar,28,10,True
+devanahalli,28,10,True
+hsr layout,28,10,True
+talaghattapura,28,10,True
+basavangudi,27,10,True
+5th phase jp nagar,27,10,True
+tumkur road,26,10,True
+hosakerehalli,25,10,True
+9th phase jp nagar,25,10,True
+bommasandra industrial area,25,10,True
+vittasandra,25,10,True
+bommanahalli,25,10,True
+padmanabhanagar,24,10,True
+kodichikkanahalli,24,10,True
+mahadevpura,24,10,True
+ananth nagar,24,10,True
+ambedkar nagar,24,10,True
+doddathoguru,23,10,True
+chikkalasandra,23,10,True
+dodda nekkundi,23,10,True
+anekal,23,10,True
+kammasandra,22,10,True
+somasundara palya,22,10,True
+seegehalli,21,10,True
+horamavu banaswadi,21,10,True
+kudlu,21,10,True
+kothannur,21,10,True
+iblur village,21,10,True
+sonnenahalli,20,10,True
+singasandra,20,10,True
+babusapalaya,20,10,True
+ambalipura,20,10,True
+lingadheeranahalli,20,10,True
+gubbalala,20,10,True
+kalena agrahara,20,10,True
+old airport road,20,10,True
+thubarahalli,19,10,True
+rayasandra,19,10,True
+anandapura,19,10,True
+magadi road,19,10,True
+hoskote,18,10,True
+1st phase jp nagar,18,10,True
+amruthahalli,18,10,True
+btm 2nd stage,18,10,True
+kogilu,18,10,True
+margondanahalli,18,10,True
+sanjay nagar,17,10,True
+binny pete,17,10,True
+banashankari stage iii,17,10,True
+ardendale,17,10,True
+abbigere,16,10,True
+begur,16,10,True
+hrbr layout,16,10,True
+battarahalli,16,10,True
+yelachenahalli,16,10,True
+kalyan nagar,16,10,True
+sarjapura - attibele road,16,10,True
+gunjur,16,10,True
+epip zone,16,10,True
+kannamangala,16,10,True
+kaval byrasandra,15,10,True
+domlur,15,10,True
+bannerghatta,15,10,True
+munnekollal,15,10,True
+devarachikkanahalli,15,10,True
+choodasandra,15,10,True
+billekahalli,15,10,True
+kaggalipura,15,10,True
+cooke town,14,10,True
+dasanapura,14,10,True
+ulsoor,14,10,True
+hbr layout,14,10,True
+ombr layout,14,10,True
+6th phase jp nagar,14,10,True
+chikka tirupathi,14,10,True
+banashankari stage ii,14,10,True
+nri layout,14,10,True
+kathriguppe,14,10,True
+kumaraswami layout,14,10,True
+kambipura,13,10,True
+arekere,13,10,True
+sector 2 hsr layout,13,10,True
+kaikondrahalli,13,10,True
+basaveshwara nagar,13,10,True
+kodihalli,13,10,True
+poorna pragna layout,13,10,True
+kereguddadahalli,13,10,True
+judicial layout,13,10,True
+kammanahalli,13,10,True
+pai layout,13,10,True
+dasarahalli,12,10,True
+varthur road,12,10,True
+garudachar palya,12,10,True
+kasturi nagar,12,10,True
+banaswadi,12,10,True
+nagavara,12,10,True
+2nd stage nagarbhavi,12,10,True
+btm layout,12,10,True
+anjanapura,12,10,True
+lb shastri nagar,11,10,True
+prithvi layout,11,10,True
+karuna nagar,11,10,True
+yelenahalli,11,10,True
+malleshpalya,11,10,True
+banashankari stage vi,11,10,True
+chikkabanavar,11,10,True
+mallasandra,11,10,True
+1st block jayanagar,11,10,True
+murugeshpalya,11,10,True
+sompura,11,10,True
+gollarapalya hosahalli,11,10,True
+shivaji nagar,10,10,True
+jalahalli east,10,10,True
+kadubeesanahalli,10,10,True
+dairy circle,10,10,True
+benson town,10,10,True
+sector 7 hsr layout,10,10,True
+bharathi nagar,10,10,True
+isro layout,10,10,True
+cunningham road,10,10,True
+kodigehaali,10,10,True
+giri nagar,10,10,True
+itpl,10,10,True
+sultan palaya,10,10,True
+nagasandra,10,10,True
+cox town,10,10,True
+chamrajpet,9,10,False
+laggere,9,10,False
+4th block koramangala,9,10,False
+banashankari stage v,9,10,False
+nehru nagar,9,10,False
+nagavarapalya,9,10,False
+doddakallasandra,9,10,False
+dommasandra,9,10,False
+sarakki nagar,9,10,False
+yemlur,9,10,False
+kenchenahalli,9,10,False
+neeladri nagar,9,10,False
+ngr layout,9,10,False
+marsur,9,10,False
+5th block hbr layout,9,10,False
+basapura,9,10,False
+rajiv nagar,9,10,False
+shampura,9,10,False
+kamakshipalya,9,10,False
+mico layout,9,10,False
+shikaripalya,8,10,False
+kalkere,8,10,False
+b narayanapura,8,10,False
+mahalakshmi layout,8,10,False
+gollahalli,8,10,False
+gm palaya,8,10,False
+vasanthapura,8,10,False
+gunjur palya,8,10,False
+1st block koramangala,8,10,False
+nagappa reddy layout,8,10,False
+ganga nagar,8,10,False
+hal 2nd stage,8,10,False
+kaverappa layout,8,10,False
+doddaballapur,8,10,False
+sadashiva nagar,8,10,False
+sector 1 hsr layout,7,10,False
+doddakammanahalli,7,10,False
+ejipura,7,10,False
+"hoodi circle,",7,10,False
+tindlu,7,10,False
+richmond town,7,10,False
+basavanapura,7,10,False
+doctors layout,7,10,False
+keshava nagar,7,10,False
+kodigehalli,7,10,False
+reliaable tranquil layout,7,10,False
+konanakunte,7,10,False
+dodda nekkundi extension,7,10,False
+banjara layout,7,10,False
+jakkur plantation,7,10,False
+nallurhalli,7,10,False
+8th block koramangala,7,10,False
+gopalkrishna nagar,7,10,False
+naganathapura,7,10,False
+thyagaraja nagar,7,10,False
+roopena agrahara,7,10,False
+byrasandra,7,10,False
+victoria layout,7,10,False
+pattandur agrahara,7,10,False
+banagiri nagar,7,10,False
+kanaka nagar,7,10,False
+chennammana kere,7,10,False
+dodsworth layout,7,10,False
+vasanth nagar,7,10,False
+bommenahalli,7,10,False
+beml layout,7,10,False
+volagerekallahalli,7,10,False
+madiwala,7,10,False
+3rd block hrbr layout,6,10,False
+2nd phase judicial layout,6,10,False
+seetharampalya,6,10,False
+cambridge layout,6,10,False
+hennur gardens,6,10,False
+ashwathnagar,6,10,False
+aecs layout,6,10,False
+mathikere,6,10,False
+2nd phase jp nagar,6,10,False
+vishwapriya layout,6,10,False
+kumara park,6,10,False
+1st block hrbr layout,6,10,False
+nagawara junction,6,10,False
+akshayanagara east,6,10,False
+nelamangala,6,10,False
+thirumenahalli,6,10,False
+medahalli,6,10,False
+"sarjapur road,",6,10,False
+2nd block hrbr layout,6,10,False
+ms pallya,6,10,False
+vishwanatha nagenahalli,6,10,False
+byatarayanapura,6,10,False
+vignana nagar,6,10,False
+venkatapura,6,10,False
+austin town,6,10,False
+shanti nagar,6,10,False
+byadarahalli,6,10,False
+cholanayakanahalli,6,10,False
+richards town,6,10,False
+narayanapura,6,10,False
+parappana agrahara,6,10,False
+badavala nagar,6,10,False
+peenya,6,10,False
+sidedahalli,6,10,False
+ittamadu,6,10,False
+byrathi village,6,10,False
+devarabeesana halli,6,10,False
+vishveshwarya layout,6,10,False
+nagadevanahalli,6,10,False
+huskur,6,10,False
+"off sarjapur road,",5,10,False
+attur layout,5,10,False
+abbaiah reddy layout,5,10,False
+jayanagar,5,10,False
+chelekare,5,10,False
+srinivasa nagar,5,10,False
+stage-4 bommanahalli,5,10,False
+basaveshwara nagar yelahanka,5,10,False
+shree ananth nagar layout,5,10,False
+a narayanapura,5,10,False
+sathya sai layout,5,10,False
+doddanakundi industrial area 2,5,10,False
+green view layout,5,10,False
+amruthnagar,5,10,False
+vajarahalli,5,10,False
+suraksha nagar,5,10,False
+samethanahalli,5,10,False
+vasantha vallabha nagar,5,10,False
+defence colony,5,10,False
+wilson garden,5,10,False
+4th t block jayanagar,5,10,False
+hongasandra,5,10,False
+dollars colony,5,10,False
+6th block koramangala,5,10,False
+ramanjaneyanagar,5,10,False
+outer ring road east,5,10,False
+coconut grove layout,5,10,False
+jeevan bima nagar,5,10,False
+ashirvad colony,5,10,False
+varanasi,5,10,False
+new thippasandra,5,10,False
+lavelle road,5,10,False
+ashwath nagar,5,10,False
+amblipura,5,10,False
+hmt layout,5,10,False
+motappa layout,5,10,False
+hoysalanagar,5,10,False
+hiremath layout,5,10,False
+shanthala nagar,5,10,False
+bagalur,5,10,False
+doddanekundi,5,10,False
+chikkadunnasandra,5,10,False
+kattigenahalli,5,10,False
+ramakrishnappa layout,5,10,False
+hessarghatta,5,10,False
+kundalahalli colony,5,10,False
+srirampura,5,10,False
+kacharakanahalli,5,10,False
+channasandra layout,5,10,False
+tejaswini nagar,5,10,False
+munivenkatppa layout,5,10,False
+maruthi sevanagar,5,10,False
+chandra layout,5,10,False
+gopalapura,5,10,False
+vijaya bank layout,5,10,False
+meenakunte,5,10,False
+doddabommasandra,5,10,False
+manayata tech park,5,10,False
+ambedkar colony,5,10,False
+bank of baroda colony,5,10,False
+doddakannelli,5,10,False
+3rd block banashankari,5,10,False
+kodbisanhalli,5,10,False
+kadabagere,5,10,False
+shantiniketan layout,5,10,False
+sai gardens,4,10,False
+suddaguntepalya,4,10,False
+vgp layout,4,10,False
+geddalahalli,4,10,False
+doopanahalli,4,10,False
+raja rajeshwari nagar 5th stage,4,10,False
+nayandanahalli,4,10,False
+lingarajapuram,4,10,False
+mallathahalli,4,10,False
+bagalur main road,4,10,False
+akshya nagar,4,10,False
+sector 6 hsr layout,4,10,False
+canara bank colony,4,10,False
+tc.palya,4,10,False
+devi nagar,4,10,False
+glass factory layout,4,10,False
+tala cauvery layout,4,10,False
+chennappa layout,4,10,False
+singapura village,4,10,False
+maragondanahalli,4,10,False
+herohalli,4,10,False
+avalahalli,4,10,False
+anand nagar,4,10,False
+ags layout,4,10,False
+alfa garden layout,4,10,False
+udayapur village,4,10,False
+mahalakshmi puram,4,10,False
+harsha layout,4,10,False
+varsova layout,4,10,False
+hennur bande,4,10,False
+devasthanagalu,4,10,False
+kuvempu nagar,4,10,False
+kada agrahara,4,10,False
+chikkathoguru,4,10,False
+akshaya vana,4,10,False
+old gurappanapalya,4,10,False
+maithri layout,4,10,False
+siddapura,4,10,False
+bikasipura,4,10,False
+4th block jayanagar,4,10,False
+"judicial layout, kanakapura road,",4,10,False
+jalahalli west,4,10,False
+immadihalli,4,10,False
+vishwapriya nagar,4,10,False
+nagashetty halli,4,10,False
+dodda banaswadi,4,10,False
+btm 1st stage,4,10,False
+nyanappana halli,4,10,False
+kr garden,4,10,False
+rmv extension,4,10,False
+ams layout,4,10,False
+basavanagara,4,10,False
+rustam bagh layout,4,10,False
+byagadadhenahalli,4,10,False
+srirampuram,4,10,False
+palace guttahalli,4,10,False
+bsm extension,3,10,False
+vaishnavi layout,3,10,False
+thippasandra,3,10,False
+chikkasandra,3,10,False
+vinayak nagar,3,10,False
+nagaraja garden,3,10,False
+hosapalya,3,10,False
+canara bank layout,3,10,False
+pampa extension,3,10,False
+dasappa layout,3,10,False
+"electronic city phase 1,",3,10,False
+telecom layout,3,10,False
+konena agrahara,3,10,False
+lakshmipura,3,10,False
+nagondanahalli,3,10,False
+kavika layout,3,10,False
+sanjeevini nagar,3,10,False
+virat nagar,3,10,False
+bethel nagar,3,10,False
+9th block jayanagar,3,10,False
+raghuvanahalli,3,10,False
+rajiv gandhi nagar,3,10,False
+mysore highway,3,10,False
+2nd block jayanagar,3,10,False
+tunganagara,3,10,False
+silver springs layout,3,10,False
+tasker town,3,10,False
+virupakshapura,3,10,False
+kumarapalli,3,10,False
+baba nagar,3,10,False
+bidadi,3,10,False
+new gurappana palya,3,10,False
+pragathi nagar,3,10,False
+tata nagar,3,10,False
+t.c palya,3,10,False
+bhel layout,3,10,False
+rmv 2nd stage,3,10,False
+doddabanahalli,3,10,False
+jayanti nagar,3,10,False
+lavakusha nagar,3,10,False
+jcr layout,3,10,False
+vinayaka nagar,3,10,False
+puttanahalli,3,10,False
+bel road,3,10,False
+seshadripuram,3,10,False
+harappanahalli,3,10,False
+brooke bond first cross,3,10,False
+anantapura,3,10,False
+bhuvaneshwari nagar,3,10,False
+b channasandra,3,10,False
+basavanna nagar,3,10,False
+bhuvaneswari nagar,3,10,False
+iti layout,3,10,False
+vittal nagar,3,10,False
+narayana nagar 1st block,3,10,False
+kenchenhalli,3,10,False
+jakkuru layout,3,10,False
+tavarekere,3,10,False
+smv layout,3,10,False
+doddagubbi,3,10,False
+mcechs  layout,3,10,False
+konanakunte cross,3,10,False
+kudlu main road,3,10,False
+singanayakanahalli,3,10,False
+sri balaji krupa layout,3,10,False
+anjappa layout,3,10,False
+krishna reddy layout,3,10,False
+udaya nagar,3,10,False
+domlur layout,3,10,False
+kaveri nagar,3,10,False
+esther enclave layout,3,10,False
+laxmi sagar layout,3,10,False
+shankarapuram,3,10,False
+ashwini layout,3,10,False
+mylasandra,3,10,False
+jakkasandra extension,3,10,False
+rwf west colony,3,10,False
+rmv,3,10,False
+gulimangala,3,10,False
+jnanabharathi layout,3,10,False
+chinnapanahalli,3,10,False
+hanumanth nagar,3,10,False
+maruthi nagar,3,10,False
+ullal road,3,10,False
+rajarajeshwari nagara,3,10,False
+7th block jayanagar,3,10,False
+bellari road,3,10,False
+poornapragna housing society layout,3,10,False
+kothnur narayanapura,3,10,False
+venugopal reddy layout,3,10,False
+alur,3,10,False
+makali,3,10,False
+bileshivale,3,10,False
+1st stage indira nagar,3,10,False
+hanumantha nagar,3,10,False
+ngef layout,3,10,False
+langford town,3,10,False
+btm 4th stage,3,10,False
+4th phase jp nagar,3,10,False
+bhagyalakshmi avenue,3,10,False
+sanne amanikere,3,10,False
+race course road,2,10,False
+pulkeshi nagar,2,10,False
+govindpura,2,10,False
+manjunatha layout,2,10,False
+divya unnathi layout,2,10,False
+gokula extension,2,10,False
+j c nagar,2,10,False
+srinivas colony,2,10,False
+daadys gaarden layout,2,10,False
+"jp nagar 7th phase,",2,10,False
+kammagondahalli,2,10,False
+rajarajeshwarinagar,2,10,False
+uday nagar,2,10,False
+kr layout,2,10,False
+thanisandra main road,2,10,False
+mathikere extension,2,10,False
+remco bhel layout,2,10,False
+annapurneshwari nagar,2,10,False
+ramamurthy nagar extension,2,10,False
+venkatadri layout,2,10,False
+2nd block bel layout,2,10,False
+palace road,2,10,False
+aishwarya crystal layout,2,10,False
+himagiri meadows,2,10,False
+postal colony,2,10,False
+kempapura,2,10,False
+anjana nagar,2,10,False
+hunasamaranahalli,2,10,False
+silk board,2,10,False
+cqal layout,2,10,False
+sathya layout,2,10,False
+sadanand nagar,2,10,False
+govindaraja nagar ward,2,10,False
+kurubarahalli,2,10,False
+omkar nagar,2,10,False
+belatur,2,10,False
+kullappa colony,2,10,False
+p&t layout,2,10,False
+3rd block koramangala,2,10,False
+near international airport,2,10,False
+kirloskar layout,2,10,False
+dollars layout,2,10,False
+nanjappa layout,2,10,False
+hosahalli extension,2,10,False
+shettigere,2,10,False
+ramanashree enclave,2,10,False
+shanthi layout,2,10,False
+manjunath nagar,2,10,False
+sadaramangala,2,10,False
+moodalapalya,2,10,False
+kashi nagar,2,10,False
+church street,2,10,False
+gattahalli,2,10,False
+rajarajeshwari nagar,2,10,False
+bagalakunte,2,10,False
+chennammanakere achukattu,2,10,False
+kariyammana agrahara,2,10,False
+krishna nagar,2,10,False
+veersandra,2,10,False
+brindavan nagar,2,10,False
+govindapura,2,10,False
+off bannergatta road,2,10,False
+versova layout,2,10,False
+lottegolla halli,2,10,False
+rpc layout,2,10,False
+palanahalli,2,10,False
+kodathi,2,10,False
+shirdi sai layout,2,10,False
+belathur,2,10,False
+ns palya,2,10,False
+"varthur road,",2,10,False
+keb colony,2,10,False
+hosakerehalli layout,2,10,False
+geleyara balaga layout,2,10,False
+gnana bharathi,2,10,False
+adityanagar,2,10,False
+classic paradise layout,2,10,False
+manyata park,2,10,False
+gkvk layout,2,10,False
+dinnur,2,10,False
+challaghatta,2,10,False
+devanahalli road,2,10,False
+teachers colony,2,10,False
+hal 3rd stage,2,10,False
+bhoopsandra,2,10,False
+crimson layout,2,10,False
+muneshwara nagar,2,10,False
+2nd stage arekere mico layout,2,10,False
+syndicate bank colony,2,10,False
+3rd block jayanagar,2,10,False
+patelappa layout,2,10,False
+amam enclave layout,2,10,False
+pattanagere,2,10,False
+doddabidrakallu,2,10,False
+vhbcs layout,2,10,False
+kallumantapa,2,10,False
+prashanth nagar,2,10,False
+nandini layout,2,10,False
+manorayana palya,2,10,False
+upadhyaya layout,2,10,False
+jaya mahal layout,2,10,False
+vibhutipura extension,2,10,False
+ramesh nagar,2,10,False
+rr layout,2,10,False
+dooravani nagar,2,10,False
+bcmc layout,2,10,False
+srinivasapura,2,10,False
+akshayanagara west,2,10,False
+green garden layout,2,10,False
+arishinakunte,2,10,False
+kamakya layout,2,10,False
+chikkakannalli,2,10,False
+dodda kempaiah layout,2,10,False
+kadugondanahalli,2,10,False
+subash nagar,2,10,False
+dr shivarama karantha nagar,2,10,False
+ankappa layout,2,10,False
+veerannapalya,2,10,False
+vivek nagar,2,10,False
+sarvabhouma nagar,2,10,False
+raghavendra layout,2,10,False
+gowdanapalya,2,10,False
+dwarka nagar,2,10,False
+hegganahalli,2,10,False
+ashok nagar,2,10,False
+vijinapura,2,10,False
+kachanayakanahalli,2,10,False
+kumbena agrahara,2,10,False
+agrahara dasarahalli,2,10,False
+beml layout 5th stage,2,10,False
+1st block hbr layout,2,10,False
+t dasarahalli,2,10,False
+jyothi nagar,2,10,False
+nandi hills,2,10,False
+coconut garden,2,10,False
+ksrtc layout,2,10,False
+jnana ganga nagar,2,10,False
+ganesha block,2,10,False
+kithaganur,2,10,False
+hagadur,2,10,False
+"whitefield,",2,10,False
+surabhi layout,2,10,False
+lake city,2,10,False
+3rd phase jp nagar,2,10,False
+gaurava nagar,2,10,False
+kengeri hobli,2,10,False
+mangammanapalya,2,10,False
+kamala nagar,2,10,False
+mariyannapalya,2,10,False
+sampangi rama nagar,2,10,False
+devanahalli int. airport,2,10,False
+anwar layout,2,10,False
+jayamahal,2,10,False
+muthurayya swamy layout,2,10,False
+tigalarpalya,2,10,False
+balaji gardens layout,2,10,False
+neelamangala,2,10,False
+guddadahalli,2,10,False
+dena bank colony,2,10,False
+omarbagh layout,2,10,False
+devasandra extension,2,10,False
+lakkasandra,2,10,False
+naidu layout,2,10,False
+d group employees layout,2,10,False
+jai bheema nagar,2,10,False
+weavers colony,2,10,False
+sunkadakatte,2,10,False
+mla layout,2,10,False
+andrahalli,2,10,False
+kodipalya,2,10,False
+kempegowda nagar,2,10,False
+annaiah reddy layout,2,10,False
+chokkanahalli,2,10,False
+someshwara layout,2,10,False
+"thanisandra main road,",2,10,False
+2nd block koramangala,2,10,False
+hoodi layout,2,10,False
+yeshwanthpur industrial suburb,2,10,False
+1st block bel layout,2,10,False
+thomas town,2,10,False
+chamundi nagar,2,10,False
+jinkethimmanahalli,2,10,False
+carmelaram,2,10,False
+hadosiddapura,2,10,False
+garebhavipalya,2,10,False
+sampigehalli,2,10,False
+hosur main road,2,10,False
+ferrar nagar,2,10,False
+mahaganapathy nagar,2,10,False
+rest house road,2,10,False
+frazertown,2,10,False
+sri venkateshpura layout,2,10,False
+chikka banaswadi,2,10,False
+vaderahalli,2,10,False
+old mangammanapalya road,1,10,False
+vasanthpura,1,10,False
+chikkajala,1,10,False
+bank avenue,1,10,False
+whitefiled,1,10,False
+cubbon road,1,10,False
+mathikere sbm colony,1,10,False
+sampangirama nagar,1,10,False
+hsr layout sector3,1,10,False
+sunder ram shetty nagar,1,10,False
+nti layout,1,10,False
+lakshmi layout,1,10,False
+anjananager magdi road,1,10,False
+bds layout,1,10,False
+"banashankari 6th stage , 2nd block",1,10,False
+"asha township, off hennur road",1,10,False
+doddabele,1,10,False
+"near electronic city,",1,10,False
+byappanahalli,1,10,False
+wheelers road,1,10,False
+"rmv extension stage 2, rmv extension",1,10,False
+prestige sunrise,1,10,False
+3rd block hbr layout,1,10,False
+malur hosur road,1,10,False
+kg halli jalhalli west,1,10,False
+"jayanagar,",1,10,False
+indra nagar,1,10,False
+hal old airport road,1,10,False
+annasandrapalya,1,10,False
+srigandada kaval,1,10,False
+duvasapalya,1,10,False
+dwaraka nagar,1,10,False
+rajasree layout,1,10,False
+rainbow drive,1,10,False
+okalipura,1,10,False
+virudhu nagar,1,10,False
+"kanakapura road,",1,10,False
+punappa layout,1,10,False
+shakthi nagar,1,10,False
+raja rajeshwari nagara,1,10,False
+soppahalli,1,10,False
+kyalasanahalli,1,10,False
+navodaya nagar,1,10,False
+lakshmiamma garden,1,10,False
+kuvempu layout,1,10,False
+madanayakahalli,1,10,False
+mrcr layout,1,10,False
+khb colony extension,1,10,False
+st. john's road,1,10,False
+subhash nagar,1,10,False
+jogupalya,1,10,False
+indira nagar 3rd stage,1,10,False
+konappana agrahara,1,10,False
+adugodi,1,10,False
+chikkabidarakallu,1,10,False
+duddanahalli,1,10,False
+nobo nagar,1,10,False
+sadahalli,1,10,False
+doctor layout rayasandra,1,10,False
+hal layout,1,10,False
+thirupalya,1,10,False
+mvj engineering college,1,10,False
+atmananda colony,1,10,False
+udayagiri,1,10,False
+btm layout 2nd stage 1st phase,1,10,False
+abshot layout,1,10,False
+viviani road,1,10,False
+arasanakunte,1,10,False
+ramanagara channapatna,1,10,False
+basaveswarnagar,1,10,False
+sarvobhogam nagar,1,10,False
+jagajyothi layout,1,10,False
+"lakshminarayanapura, electronic city phase 2",1,10,False
+basava nagar,1,10,False
+shetty halli,1,10,False
+"banasawadi,",1,10,False
+kadarenahalli,1,10,False
+millers road,1,10,False
+banashankari 6th stage,1,10,False
+tharabanahalli,1,10,False
+suragajakkanahalli,1,10,False
+gandhi bazar,1,10,False
+"bidere agarahara, behind safal market",1,10,False
+coffee board layout,1,10,False
+"6th block banashankari 3rd stage, 100 feet orr",1,10,False
+"pai layout , mahadevapura",1,10,False
+sarjapur bagalur road,1,10,False
+"epip area, whitefield",1,10,False
+maheswari nagar,1,10,False
+gkw layout,1,10,False
+muthyala nagar,1,10,False
+sk garden,1,10,False
+rmv extension stage 2,1,10,False
+nirman layout,1,10,False
+vidya nagar,1,10,False
+maruthi hbcs layout,1,10,False
+queens road,1,10,False
+escorts colony,1,10,False
+rammana layout,1,10,False
+mukkutam nagar,1,10,False
+huttanahalli,1,10,False
+kasthuri nagar east of ngef,1,10,False
+adarsh nagar,1,10,False
+lic colony,1,10,False
+sathanur,1,10,False
+"ananthanagar phase 1,electronic city , phase 2",1,10,False
+whitefield ecc road,1,10,False
+k g colony,1,10,False
+binnamangala,1,10,False
+t r mill road,1,10,False
+badrappa layout,1,10,False
+sundara nagar,1,10,False
+rajarajesheari nagar,1,10,False
+nanjappa garden,1,10,False
+poornaprajna layout,1,10,False
+sugama layout,1,10,False
+friends colony,1,10,False
+akshaya nagar t c palya,1,10,False
+south,1,10,False
+amarjyothi colony,1,10,False
+prakash nagar,1,10,False
+6th block jayanagar,1,10,False
+bapuji nagar,1,10,False
+sabari nagar,1,10,False
+1st stage radha krishna layout,1,10,False
+cmh road,1,10,False
+sonam layout,1,10,False
+jakkuryelahanka,1,10,False
+jeevanhalli,1,10,False
+bidrahalli,1,10,False
+deepanjali nagar,1,10,False
+neelasandra,1,10,False
+virgonagar,1,10,False
+akash nagar,1,10,False
+doddanakunte,1,10,False
+prasanth extension,1,10,False
+"yelahanka,mvit college",1,10,False
+laxminarayana layout,1,10,False
+maruthi layout,1,10,False
+high grounds,1,10,False
+narayanappa garden,1,10,False
+thurahalli,1,10,False
+t c palya,1,10,False
+"mei layout, bagalgunte",1,10,False
+billamaranahalli,1,10,False
+govindraja nagar,1,10,False
+v.v puram,1,10,False
+rahmath nagar,1,10,False
+chikbasavanapura,1,10,False
+subramanya nagar,1,10,False
+singena agrahara,1,10,False
+gb palya,1,10,False
+gulakamale,1,10,False
+ilyas nagar,1,10,False
+sarjapura main road,1,10,False
+dollar scheme colony,1,10,False
+gopal reddy layout,1,10,False
+bahubali nagar,1,10,False
+dhanalakshmi layout,1,10,False
+maruthi extension,1,10,False
+air view colony,1,10,False
+kalhalli,1,10,False
+sree narayana nagar,1,10,False
+rr nagar,1,10,False
+shivanagar,1,10,False
+1a block koramangala,1,10,False
+kg halli,1,10,False
+jaya nagar east,1,10,False
+thyagraj nagar,1,10,False
+harohalli,1,10,False
+jaladarsini layout,1,10,False
+zuzuvadi,1,10,False
+marathalli bridge,1,10,False
+hullahalli,1,10,False
+madavara,1,10,False
+b k nagar,1,10,False
+indira nagar stage 2,1,10,False
+ckikkakammana halli,1,10,False
+shingapura,1,10,False
+srinagar,1,10,False
+kodanda reddy layout,1,10,False
+chikkagubbi,1,10,False
+kathriguppe iv phase,1,10,False
+vimanapura,1,10,False
+ramaswamy palya - kammanahalli main road,1,10,False
+3rd stage raja rajeshwari nagar,1,10,False
+lalbagh road,1,10,False
+m.g road,1,10,False
+viswapriyanagar.begur road.bommanahalli.,1,10,False
+richmond road,1,10,False
+brigade road,1,10,False
+kanakapur main road,1,10,False
+kannur,1,10,False
+mailasandra,1,10,False
+bande nallasandra,1,10,False
+kengeri satellite town ( bda site),1,10,False
+cleveland town,1,10,False
+phase 1 kammasandra,1,10,False
+3rd phase iti layout,1,10,False
+asthagrama layout,1,10,False
+pillahalli,1,10,False
+anugrah layout,1,10,False
+sahyadri layout,1,10,False
+handenahalli,1,10,False
+kamakiya,1,10,False
+"banashankari 6th stage ,subramanyapura",1,10,False
+binny mills employees colony,1,10,False
+shauhardha layout,1,10,False
+ullal uppanagar,1,10,False
+west of chord road,1,10,False
+b y raveshwara nagar,1,10,False
+panduranga nagar,1,10,False
+4 bedroom farm house in bagalur,1,10,False
+chuchangatta colony,1,10,False
+infantry road,1,10,False
+kalasipalya,1,10,False
+agb layout,1,10,False
+banashankari stage 2,1,10,False
+nanjappa layout vidyaranyapura,1,10,False
+"hsr layout 7th sector,",1,10,False
+"haralur road,",1,10,False
+duo layout,1,10,False
+raghavendra nagar,1,10,False
+papareddipalya,1,10,False
+sulthangunta,1,10,False
+veer sandra,1,10,False
+bennigana halli,1,10,False
+chikkatirupathi,1,10,False
+"kudlu village,",1,10,False
+lal bahadur shastri nagar,1,10,False
+"maragondana halli, kr puram, old madras road",1,10,False
+bandepalya,1,10,False
+near ramanashree california resort,1,10,False
+sri sai layout,1,10,False
+chikku lakshmaiah layout,1,10,False
+rto ullalu,1,10,False
+"white field,kadugodi",1,10,False
+6th block rajaji nagar,1,10,False
+"banaswadi,",1,10,False
+hanuman nagar,1,10,False
+kanakapura main road,1,10,False
+bel layout,1,10,False
+marasandra,1,10,False
+kanakadasa layout,1,10,False
+bcc layout,1,10,False
+bharathnagar,1,10,False
+kpc layout,1,10,False
+rahat bagh,1,10,False
+addischetan layout,1,10,False
+malimakanapura,1,10,False
+elachenahalli,1,10,False
+green domain layout,1,10,False
+halanayakanahalli,1,10,False
+hommadevanahalli,1,10,False
+reliable woods layout,1,10,False
+pns layout,1,10,False
+bhattarahalli,1,10,False
+havanur extension,1,10,False
+chellikere,1,10,False
+chambenahalli,1,10,False
+vijaypura,1,10,False
+kumbhena agrahara,1,10,False
+indranagar  100ft road defence colony,1,10,False
+javarandoddi,1,10,False
+"jp nagar 8th phase,",1,10,False
+t c palya main road,1,10,False
+pulikeshi nagar,1,10,False
+bagur road,1,10,False
+guni agrahara,1,10,False
+banagirinagar,1,10,False
+allalasandra,1,10,False
+viswajit layout,1,10,False
+popular colony,1,10,False
+kothnoor dinne,1,10,False
+banashankari3rd stage bigbazar,1,10,False
+vadarpalya,1,10,False
+ring road nagarbhavi,1,10,False
+prasanti nagar,1,10,False
+venkateswara nagar,1,10,False
+ramchandrapuram,1,10,False
+rbi layout,1,10,False
+gandhi nagar,1,10,False
+howthinarayanappa garden,1,10,False
+"beml layout, basaveshwara nagar",1,10,False
+jakkasandra,1,10,False
+cambridge  road,1,10,False
+aavalahalli,1,10,False
+xavier layout,1,10,False
+chikkanahalli,1,10,False
+green woods layout,1,10,False
+vittal mallya road,1,10,False
+singapura paradise,1,10,False
+basvasamithi layout vidyaranyapura,1,10,False
+kadubisnahalli,1,10,False
+iggalur,1,10,False
+nagarbhavi garden villas layout,1,10,False
+bilal nagar,1,10,False
+celebrity paradise layout,1,10,False
+12th cross srinivas nagar banshankari 3rd stage,1,10,False
+kengeri satellite town stage ii,1,10,False
+vikram nagar,1,10,False
+sampige layout,1,10,False
+s r layout,1,10,False
+maruthi nagar kogilu,1,10,False
+jaymahal road,1,10,False
+shanthi pura,1,10,False
+brindavan layout,1,10,False
+d souza layout,1,10,False
+gidada konnenahalli,1,10,False
+"jp nagar 9th phase,",1,10,False
+rajankunte,1,10,False
+hanumagiri,1,10,False
+iti employees layout,1,10,False
+billapura,1,10,False
+ganga nagar extension,1,10,False
+"ecc road, whitefield,",1,10,False
+vasatha vallbha nagar,1,10,False
+adigondanhalli,1,10,False
+anathanagar,1,10,False
+karnataka shabarimala,1,10,False
+"kirloskar layout, basaveshwarnagar",1,10,False
+sbm colony,1,10,False
+chowdeshwari layout,1,10,False
+st thomas town,1,10,False
+junnasandra,1,10,False
+goraguntepalya,1,10,False
+vayunandana layout,1,10,False
+vasantapura main road,1,10,False
+soundarya layout,1,10,False
+gattigere,1,10,False
+mallappa layout,1,10,False
+behind don bosco church,1,10,False
+"basnashankari,6th stage,",1,10,False
+kanakapura main  road,1,10,False
+marenahalli,1,10,False
+sector 4 hsr layout,1,10,False
+near ullas theater,1,10,False
+vinayaka layout,1,10,False
+kumbalgodu,1,10,False
+"tr mill road, chamarajpet",1,10,False
+chaitanya ananya,1,10,False
+8th block jayanagar,1,10,False
+suryanagar,1,10,False
+banashankari 2 nd stage,1,10,False
+prasanna layout herohalli,1,10,False
+"ravindra nagar, t.dasarahalli peenya",1,10,False
+sundar ram shetty nagar,1,10,False
+bendiganahalli,1,10,False
+shirdi sai nagar,1,10,False
+anekal - hosur road,1,10,False
+keerthi layout,1,10,False
+ncpr industrial layout,1,10,False
+arekempanahalli,1,10,False
+ganganahalli,1,10,False
+sadduguntepalya,1,10,False
+lakshmipura vidyaanyapura,1,10,False
+kathreguppe,1,10,False
+gd layout,1,10,False
+rajapura,1,10,False
+5th block jayanagar,1,10,False
+koppa,1,10,False
+prakruthi nagar,1,10,False
+defence layout,1,10,False
+4th block hbr layout,1,10,False
+upkar layout,1,10,False
+ayappa nagar,1,10,False
+janatha colony,1,10,False
+milk colony,1,10,False
+vidhyanagar cross,1,10,False
+kanakapura road,1,10,False
+indiranagar hal 2nd stage,1,10,False
+achins road,1,10,False
+kamdhenu nagar,1,10,False
+veerabhadra nagar,1,10,False
+"gubbi cross, hennur main road",1,10,False
+cooketown,1,10,False
+sneha colony,1,10,False
+hennagara,1,10,False
+agara village,1,10,False
+5th stage beml layout,1,10,False
+bharat nagar,1,10,False
+hosahalli,1,10,False
+t g extension,1,10,False
+"banashankari 3rd stage, vivekanandanagar",1,10,False
+sankeswari,1,10,False
+sadhguru layout,1,10,False
+gokaula extension,1,10,False
+jayamahal extension,1,10,False
+kalkere channasandra,1,10,False
+dominic layout,1,10,False
+venkateshpuram,1,10,False
+satyasaibaba layout,1,10,False
+hosur rmain road,1,10,False
+"annapoorneshwari layout, jp nagar 7th phase",1,10,False
+nandi durga road,1,10,False
+chokkasandra,1,10,False
+rajanna layout,1,10,False
+whitefield,416,20,True
+sarjapur  road,302,20,True
+electronic city,223,20,True
+kanakpura road,191,20,True
+thanisandra,190,20,True
+yelahanka,158,20,True
+marathahalli,135,20,True
+hebbal,129,20,True
+raja rajeshwari nagar,122,20,True
+bannerghatta road,121,20,True
+hennur road,121,20,True
+7th phase jp nagar,109,20,True
+uttarahalli,109,20,True
+electronic city phase ii,100,20,True
+haralur road,82,20,True
+rajaji nagar,82,20,True
+bellandur,79,20,True
+yeshwanthpur,74,20,True
+kasavanhalli,72,20,True
+chandapura,70,20,True
+hoodi,65,20,True
+kr puram,64,20,True
+sarjapur,64,20,True
+harlur,62,20,True
+electronics city phase 1,62,20,True
+koramangala,60,20,True
+hormavu,59,20,True
+kengeri,57,20,True
+kaggadasapura,57,20,True
+jp nagar,56,20,True
+banashankari,56,20,True
+begur road,56,20,True
+old madras road,55,20,True
+ramamurthy nagar,55,20,True
+hosa road,52,20,True
+jakkur,51,20,True
+akshaya nagar,49,20,True
+varthur,49,20,True
+kothanur,47,20,True
+hulimavu,46,20,True
+malleshwaram,45,20,True
+brookefield,43,20,True
+gottigere,41,20,True
+ramagondanahalli,41,20,True
+8th phase jp nagar,41,20,True
+panathur,39,20,True
+hennur,39,20,True
+rachenahalli,39,20,True
+thigalarapalya,38,20,True
+yelahanka new town,38,20,True
+bisuvanahalli,36,20,True
+jalahalli,36,20,True
+kundalahalli,36,20,True
+jigani,35,20,True
+bommasandra,35,20,True
+budigere,34,20,True
+nagarbhavi,34,20,True
+kadugodi,34,20,True
+hegde nagar,34,20,True
+mysore road,34,20,True
+vijayanagar,33,20,True
+bhoganhalli,33,20,True
+frazer town,33,20,True
+kengeri satellite town,32,20,True
+green glen layout,32,20,True
+balagere,32,20,True
+horamavu agara,32,20,True
+tc palaya,32,20,True
+lakshminarayana pura,32,20,True
+subramanyapura,32,20,True
+cv raman nagar,31,20,True
+kanakapura,31,20,True
+sahakara nagar,31,20,True
+attibele,31,20,True
+kudlu gate,31,20,True
+indira nagar,31,20,True
+channasandra,30,20,True
+hebbal kempapura,29,20,True
+hosur road,28,20,True
+vidyaranyapura,28,20,True
+r.t. nagar,28,20,True
+devanahalli,28,20,True
+hsr layout,28,20,True
+talaghattapura,28,20,True
+basavangudi,27,20,True
+5th phase jp nagar,27,20,True
+tumkur road,26,20,True
+hosakerehalli,25,20,True
+9th phase jp nagar,25,20,True
+bommasandra industrial area,25,20,True
+vittasandra,25,20,True
+bommanahalli,25,20,True
+padmanabhanagar,24,20,True
+kodichikkanahalli,24,20,True
+mahadevpura,24,20,True
+ananth nagar,24,20,True
+ambedkar nagar,24,20,True
+doddathoguru,23,20,True
+chikkalasandra,23,20,True
+dodda nekkundi,23,20,True
+anekal,23,20,True
+kammasandra,22,20,True
+somasundara palya,22,20,True
+seegehalli,21,20,True
+horamavu banaswadi,21,20,True
+kudlu,21,20,True
+kothannur,21,20,True
+iblur village,21,20,True
+sonnenahalli,20,20,True
+singasandra,20,20,True
+babusapalaya,20,20,True
+ambalipura,20,20,True
+lingadheeranahalli,20,20,True
+gubbalala,20,20,True
+kalena agrahara,20,20,True
+old airport road,20,20,True
+thubarahalli,19,20,False
+rayasandra,19,20,False
+anandapura,19,20,False
+magadi road,19,20,False
+hoskote,18,20,False
+1st phase jp nagar,18,20,False
+amruthahalli,18,20,False
+btm 2nd stage,18,20,False
+kogilu,18,20,False
+margondanahalli,18,20,False
+sanjay nagar,17,20,False
+binny pete,17,20,False
+banashankari stage iii,17,20,False
+ardendale,17,20,False
+abbigere,16,20,False
+begur,16,20,False
+hrbr layout,16,20,False
+battarahalli,16,20,False
+yelachenahalli,16,20,False
+kalyan nagar,16,20,False
+sarjapura - attibele road,16,20,False
+gunjur,16,20,False
+epip zone,16,20,False
+kannamangala,16,20,False
+kaval byrasandra,15,20,False
+domlur,15,20,False
+bannerghatta,15,20,False
+munnekollal,15,20,False
+devarachikkanahalli,15,20,False
+choodasandra,15,20,False
+billekahalli,15,20,False
+kaggalipura,15,20,False
+cooke town,14,20,False
+dasanapura,14,20,False
+ulsoor,14,20,False
+hbr layout,14,20,False
+ombr layout,14,20,False
+6th phase jp nagar,14,20,False
+chikka tirupathi,14,20,False
+banashankari stage ii,14,20,False
+nri layout,14,20,False
+kathriguppe,14,20,False
+kumaraswami layout,14,20,False
+kambipura,13,20,False
+arekere,13,20,False
+sector 2 hsr layout,13,20,False
+kaikondrahalli,13,20,False
+basaveshwara nagar,13,20,False
+kodihalli,13,20,False
+poorna pragna layout,13,20,False
+kereguddadahalli,13,20,False
+judicial layout,13,20,False
+kammanahalli,13,20,False
+pai layout,13,20,False
+dasarahalli,12,20,False
+varthur road,12,20,False
+garudachar palya,12,20,False
+kasturi nagar,12,20,False
+banaswadi,12,20,False
+nagavara,12,20,False
+2nd stage nagarbhavi,12,20,False
+btm layout,12,20,False
+anjanapura,12,20,False
+lb shastri nagar,11,20,False
+prithvi layout,11,20,False
+karuna nagar,11,20,False
+yelenahalli,11,20,False
+malleshpalya,11,20,False
+banashankari stage vi,11,20,False
+chikkabanavar,11,20,False
+mallasandra,11,20,False
+1st block jayanagar,11,20,False
+murugeshpalya,11,20,False
+sompura,11,20,False
+gollarapalya hosahalli,11,20,False
+shivaji nagar,10,20,False
+jalahalli east,10,20,False
+kadubeesanahalli,10,20,False
+dairy circle,10,20,False
+benson town,10,20,False
+sector 7 hsr layout,10,20,False
+bharathi nagar,10,20,False
+isro layout,10,20,False
+cunningham road,10,20,False
+kodigehaali,10,20,False
+giri nagar,10,20,False
+itpl,10,20,False
+sultan palaya,10,20,False
+nagasandra,10,20,False
+cox town,10,20,False
+chamrajpet,9,20,False
+laggere,9,20,False
+4th block koramangala,9,20,False
+banashankari stage v,9,20,False
+nehru nagar,9,20,False
+nagavarapalya,9,20,False
+doddakallasandra,9,20,False
+dommasandra,9,20,False
+sarakki nagar,9,20,False
+yemlur,9,20,False
+kenchenahalli,9,20,False
+neeladri nagar,9,20,False
+ngr layout,9,20,False
+marsur,9,20,False
+5th block hbr layout,9,20,False
+basapura,9,20,False
+rajiv nagar,9,20,False
+shampura,9,20,False
+kamakshipalya,9,20,False
+mico layout,9,20,False
+shikaripalya,8,20,False
+kalkere,8,20,False
+b narayanapura,8,20,False
+mahalakshmi layout,8,20,False
+gollahalli,8,20,False
+gm palaya,8,20,False
+vasanthapura,8,20,False
+gunjur palya,8,20,False
+1st block koramangala,8,20,False
+nagappa reddy layout,8,20,False
+ganga nagar,8,20,False
+hal 2nd stage,8,20,False
+kaverappa layout,8,20,False
+doddaballapur,8,20,False
+sadashiva nagar,8,20,False
+sector 1 hsr layout,7,20,False
+doddakammanahalli,7,20,False
+ejipura,7,20,False
+"hoodi circle,",7,20,False
+tindlu,7,20,False
+richmond town,7,20,False
+basavanapura,7,20,False
+doctors layout,7,20,False
+keshava nagar,7,20,False
+kodigehalli,7,20,False
+reliaable tranquil layout,7,20,False
+konanakunte,7,20,False
+dodda nekkundi extension,7,20,False
+banjara layout,7,20,False
+jakkur plantation,7,20,False
+nallurhalli,7,20,False
+8th block koramangala,7,20,False
+gopalkrishna nagar,7,20,False
+naganathapura,7,20,False
+thyagaraja nagar,7,20,False
+roopena agrahara,7,20,False
+byrasandra,7,20,False
+victoria layout,7,20,False
+pattandur agrahara,7,20,False
+banagiri nagar,7,20,False
+kanaka nagar,7,20,False
+chennammana kere,7,20,False
+dodsworth layout,7,20,False
+vasanth nagar,7,20,False
+bommenahalli,7,20,False
+beml layout,7,20,False
+volagerekallahalli,7,20,False
+madiwala,7,20,False
+3rd block hrbr layout,6,20,False
+2nd phase judicial layout,6,20,False
+seetharampalya,6,20,False
+cambridge layout,6,20,False
+hennur gardens,6,20,False
+ashwathnagar,6,20,False
+aecs layout,6,20,False
+mathikere,6,20,False
+2nd phase jp nagar,6,20,False
+vishwapriya layout,6,20,False
+kumara park,6,20,False
+1st block hrbr layout,6,20,False
+nagawara junction,6,20,False
+akshayanagara east,6,20,False
+nelamangala,6,20,False
+thirumenahalli,6,20,False
+medahalli,6,20,False
+"sarjapur road,",6,20,False
+2nd block hrbr layout,6,20,False
+ms pallya,6,20,False
+vishwanatha nagenahalli,6,20,False
+byatarayanapura,6,20,False
+vignana nagar,6,20,False
+venkatapura,6,20,False
+austin town,6,20,False
+shanti nagar,6,20,False
+byadarahalli,6,20,False
+cholanayakanahalli,6,20,False
+richards town,6,20,False
+narayanapura,6,20,False
+parappana agrahara,6,20,False
+badavala nagar,6,20,False
+peenya,6,20,False
+sidedahalli,6,20,False
+ittamadu,6,20,False
+byrathi village,6,20,False
+devarabeesana halli,6,20,False
+vishveshwarya layout,6,20,False
+nagadevanahalli,6,20,False
+huskur,6,20,False
+"off sarjapur road,",5,20,False
+attur layout,5,20,False
+abbaiah reddy layout,5,20,False
+jayanagar,5,20,False
+chelekare,5,20,False
+srinivasa nagar,5,20,False
+stage-4 bommanahalli,5,20,False
+basaveshwara nagar yelahanka,5,20,False
+shree ananth nagar layout,5,20,False
+a narayanapura,5,20,False
+sathya sai layout,5,20,False
+doddanakundi industrial area 2,5,20,False
+green view layout,5,20,False
+amruthnagar,5,20,False
+vajarahalli,5,20,False
+suraksha nagar,5,20,False
+samethanahalli,5,20,False
+vasantha vallabha nagar,5,20,False
+defence colony,5,20,False
+wilson garden,5,20,False
+4th t block jayanagar,5,20,False
+hongasandra,5,20,False
+dollars colony,5,20,False
+6th block koramangala,5,20,False
+ramanjaneyanagar,5,20,False
+outer ring road east,5,20,False
+coconut grove layout,5,20,False
+jeevan bima nagar,5,20,False
+ashirvad colony,5,20,False
+varanasi,5,20,False
+new thippasandra,5,20,False
+lavelle road,5,20,False
+ashwath nagar,5,20,False
+amblipura,5,20,False
+hmt layout,5,20,False
+motappa layout,5,20,False
+hoysalanagar,5,20,False
+hiremath layout,5,20,False
+shanthala nagar,5,20,False
+bagalur,5,20,False
+doddanekundi,5,20,False
+chikkadunnasandra,5,20,False
+kattigenahalli,5,20,False
+ramakrishnappa layout,5,20,False
+hessarghatta,5,20,False
+kundalahalli colony,5,20,False
+srirampura,5,20,False
+kacharakanahalli,5,20,False
+channasandra layout,5,20,False
+tejaswini nagar,5,20,False
+munivenkatppa layout,5,20,False
+maruthi sevanagar,5,20,False
+chandra layout,5,20,False
+gopalapura,5,20,False
+vijaya bank layout,5,20,False
+meenakunte,5,20,False
+doddabommasandra,5,20,False
+manayata tech park,5,20,False
+ambedkar colony,5,20,False
+bank of baroda colony,5,20,False
+doddakannelli,5,20,False
+3rd block banashankari,5,20,False
+kodbisanhalli,5,20,False
+kadabagere,5,20,False
+shantiniketan layout,5,20,False
+sai gardens,4,20,False
+suddaguntepalya,4,20,False
+vgp layout,4,20,False
+geddalahalli,4,20,False
+doopanahalli,4,20,False
+raja rajeshwari nagar 5th stage,4,20,False
+nayandanahalli,4,20,False
+lingarajapuram,4,20,False
+mallathahalli,4,20,False
+bagalur main road,4,20,False
+akshya nagar,4,20,False
+sector 6 hsr layout,4,20,False
+canara bank colony,4,20,False
+tc.palya,4,20,False
+devi nagar,4,20,False
+glass factory layout,4,20,False
+tala cauvery layout,4,20,False
+chennappa layout,4,20,False
+singapura village,4,20,False
+maragondanahalli,4,20,False
+herohalli,4,20,False
+avalahalli,4,20,False
+anand nagar,4,20,False
+ags layout,4,20,False
+alfa garden layout,4,20,False
+udayapur village,4,20,False
+mahalakshmi puram,4,20,False
+harsha layout,4,20,False
+varsova layout,4,20,False
+hennur bande,4,20,False
+devasthanagalu,4,20,False
+kuvempu nagar,4,20,False
+kada agrahara,4,20,False
+chikkathoguru,4,20,False
+akshaya vana,4,20,False
+old gurappanapalya,4,20,False
+maithri layout,4,20,False
+siddapura,4,20,False
+bikasipura,4,20,False
+4th block jayanagar,4,20,False
+"judicial layout, kanakapura road,",4,20,False
+jalahalli west,4,20,False
+immadihalli,4,20,False
+vishwapriya nagar,4,20,False
+nagashetty halli,4,20,False
+dodda banaswadi,4,20,False
+btm 1st stage,4,20,False
+nyanappana halli,4,20,False
+kr garden,4,20,False
+rmv extension,4,20,False
+ams layout,4,20,False
+basavanagara,4,20,False
+rustam bagh layout,4,20,False
+byagadadhenahalli,4,20,False
+srirampuram,4,20,False
+palace guttahalli,4,20,False
+bsm extension,3,20,False
+vaishnavi layout,3,20,False
+thippasandra,3,20,False
+chikkasandra,3,20,False
+vinayak nagar,3,20,False
+nagaraja garden,3,20,False
+hosapalya,3,20,False
+canara bank layout,3,20,False
+pampa extension,3,20,False
+dasappa layout,3,20,False
+"electronic city phase 1,",3,20,False
+telecom layout,3,20,False
+konena agrahara,3,20,False
+lakshmipura,3,20,False
+nagondanahalli,3,20,False
+kavika layout,3,20,False
+sanjeevini nagar,3,20,False
+virat nagar,3,20,False
+bethel nagar,3,20,False
+9th block jayanagar,3,20,False
+raghuvanahalli,3,20,False
+rajiv gandhi nagar,3,20,False
+mysore highway,3,20,False
+2nd block jayanagar,3,20,False
+tunganagara,3,20,False
+silver springs layout,3,20,False
+tasker town,3,20,False
+virupakshapura,3,20,False
+kumarapalli,3,20,False
+baba nagar,3,20,False
+bidadi,3,20,False
+new gurappana palya,3,20,False
+pragathi nagar,3,20,False
+tata nagar,3,20,False
+t.c palya,3,20,False
+bhel layout,3,20,False
+rmv 2nd stage,3,20,False
+doddabanahalli,3,20,False
+jayanti nagar,3,20,False
+lavakusha nagar,3,20,False
+jcr layout,3,20,False
+vinayaka nagar,3,20,False
+puttanahalli,3,20,False
+bel road,3,20,False
+seshadripuram,3,20,False
+harappanahalli,3,20,False
+brooke bond first cross,3,20,False
+anantapura,3,20,False
+bhuvaneshwari nagar,3,20,False
+b channasandra,3,20,False
+basavanna nagar,3,20,False
+bhuvaneswari nagar,3,20,False
+iti layout,3,20,False
+vittal nagar,3,20,False
+narayana nagar 1st block,3,20,False
+kenchenhalli,3,20,False
+jakkuru layout,3,20,False
+tavarekere,3,20,False
+smv layout,3,20,False
+doddagubbi,3,20,False
+mcechs  layout,3,20,False
+konanakunte cross,3,20,False
+kudlu main road,3,20,False
+singanayakanahalli,3,20,False
+sri balaji krupa layout,3,20,False
+anjappa layout,3,20,False
+krishna reddy layout,3,20,False
+udaya nagar,3,20,False
+domlur layout,3,20,False
+kaveri nagar,3,20,False
+esther enclave layout,3,20,False
+laxmi sagar layout,3,20,False
+shankarapuram,3,20,False
+ashwini layout,3,20,False
+mylasandra,3,20,False
+jakkasandra extension,3,20,False
+rwf west colony,3,20,False
+rmv,3,20,False
+gulimangala,3,20,False
+jnanabharathi layout,3,20,False
+chinnapanahalli,3,20,False
+hanumanth nagar,3,20,False
+maruthi nagar,3,20,False
+ullal road,3,20,False
+rajarajeshwari nagara,3,20,False
+7th block jayanagar,3,20,False
+bellari road,3,20,False
+poornapragna housing society layout,3,20,False
+kothnur narayanapura,3,20,False
+venugopal reddy layout,3,20,False
+alur,3,20,False
+makali,3,20,False
+bileshivale,3,20,False
+1st stage indira nagar,3,20,False
+hanumantha nagar,3,20,False
+ngef layout,3,20,False
+langford town,3,20,False
+btm 4th stage,3,20,False
+4th phase jp nagar,3,20,False
+bhagyalakshmi avenue,3,20,False
+sanne amanikere,3,20,False
+race course road,2,20,False
+pulkeshi nagar,2,20,False
+govindpura,2,20,False
+manjunatha layout,2,20,False
+divya unnathi layout,2,20,False
+gokula extension,2,20,False
+j c nagar,2,20,False
+srinivas colony,2,20,False
+daadys gaarden layout,2,20,False
+"jp nagar 7th phase,",2,20,False
+kammagondahalli,2,20,False
+rajarajeshwarinagar,2,20,False
+uday nagar,2,20,False
+kr layout,2,20,False
+thanisandra main road,2,20,False
+mathikere extension,2,20,False
+remco bhel layout,2,20,False
+annapurneshwari nagar,2,20,False
+ramamurthy nagar extension,2,20,False
+venkatadri layout,2,20,False
+2nd block bel layout,2,20,False
+palace road,2,20,False
+aishwarya crystal layout,2,20,False
+himagiri meadows,2,20,False
+postal colony,2,20,False
+kempapura,2,20,False
+anjana nagar,2,20,False
+hunasamaranahalli,2,20,False
+silk board,2,20,False
+cqal layout,2,20,False
+sathya layout,2,20,False
+sadanand nagar,2,20,False
+govindaraja nagar ward,2,20,False
+kurubarahalli,2,20,False
+omkar nagar,2,20,False
+belatur,2,20,False
+kullappa colony,2,20,False
+p&t layout,2,20,False
+3rd block koramangala,2,20,False
+near international airport,2,20,False
+kirloskar layout,2,20,False
+dollars layout,2,20,False
+nanjappa layout,2,20,False
+hosahalli extension,2,20,False
+shettigere,2,20,False
+ramanashree enclave,2,20,False
+shanthi layout,2,20,False
+manjunath nagar,2,20,False
+sadaramangala,2,20,False
+moodalapalya,2,20,False
+kashi nagar,2,20,False
+church street,2,20,False
+gattahalli,2,20,False
+rajarajeshwari nagar,2,20,False
+bagalakunte,2,20,False
+chennammanakere achukattu,2,20,False
+kariyammana agrahara,2,20,False
+krishna nagar,2,20,False
+veersandra,2,20,False
+brindavan nagar,2,20,False
+govindapura,2,20,False
+off bannergatta road,2,20,False
+versova layout,2,20,False
+lottegolla halli,2,20,False
+rpc layout,2,20,False
+palanahalli,2,20,False
+kodathi,2,20,False
+shirdi sai layout,2,20,False
+belathur,2,20,False
+ns palya,2,20,False
+"varthur road,",2,20,False
+keb colony,2,20,False
+hosakerehalli layout,2,20,False
+geleyara balaga layout,2,20,False
+gnana bharathi,2,20,False
+adityanagar,2,20,False
+classic paradise layout,2,20,False
+manyata park,2,20,False
+gkvk layout,2,20,False
+dinnur,2,20,False
+challaghatta,2,20,False
+devanahalli road,2,20,False
+teachers colony,2,20,False
+hal 3rd stage,2,20,False
+bhoopsandra,2,20,False
+crimson layout,2,20,False
+muneshwara nagar,2,20,False
+2nd stage arekere mico layout,2,20,False
+syndicate bank colony,2,20,False
+3rd block jayanagar,2,20,False
+patelappa layout,2,20,False
+amam enclave layout,2,20,False
+pattanagere,2,20,False
+doddabidrakallu,2,20,False
+vhbcs layout,2,20,False
+kallumantapa,2,20,False
+prashanth nagar,2,20,False
+nandini layout,2,20,False
+manorayana palya,2,20,False
+upadhyaya layout,2,20,False
+jaya mahal layout,2,20,False
+vibhutipura extension,2,20,False
+ramesh nagar,2,20,False
+rr layout,2,20,False
+dooravani nagar,2,20,False
+bcmc layout,2,20,False
+srinivasapura,2,20,False
+akshayanagara west,2,20,False
+green garden layout,2,20,False
+arishinakunte,2,20,False
+kamakya layout,2,20,False
+chikkakannalli,2,20,False
+dodda kempaiah layout,2,20,False
+kadugondanahalli,2,20,False
+subash nagar,2,20,False
+dr shivarama karantha nagar,2,20,False
+ankappa layout,2,20,False
+veerannapalya,2,20,False
+vivek nagar,2,20,False
+sarvabhouma nagar,2,20,False
+raghavendra layout,2,20,False
+gowdanapalya,2,20,False
+dwarka nagar,2,20,False
+hegganahalli,2,20,False
+ashok nagar,2,20,False
+vijinapura,2,20,False
+kachanayakanahalli,2,20,False
+kumbena agrahara,2,20,False
+agrahara dasarahalli,2,20,False
+beml layout 5th stage,2,20,False
+1st block hbr layout,2,20,False
+t dasarahalli,2,20,False
+jyothi nagar,2,20,False
+nandi hills,2,20,False
+coconut garden,2,20,False
+ksrtc layout,2,20,False
+jnana ganga nagar,2,20,False
+ganesha block,2,20,False
+kithaganur,2,20,False
+hagadur,2,20,False
+"whitefield,",2,20,False
+surabhi layout,2,20,False
+lake city,2,20,False
+3rd phase jp nagar,2,20,False
+gaurava nagar,2,20,False
+kengeri hobli,2,20,False
+mangammanapalya,2,20,False
+kamala nagar,2,20,False
+mariyannapalya,2,20,False
+sampangi rama nagar,2,20,False
+devanahalli int. airport,2,20,False
+anwar layout,2,20,False
+jayamahal,2,20,False
+muthurayya swamy layout,2,20,False
+tigalarpalya,2,20,False
+balaji gardens layout,2,20,False
+neelamangala,2,20,False
+guddadahalli,2,20,False
+dena bank colony,2,20,False
+omarbagh layout,2,20,False
+devasandra extension,2,20,False
+lakkasandra,2,20,False
+naidu layout,2,20,False
+d group employees layout,2,20,False
+jai bheema nagar,2,20,False
+weavers colony,2,20,False
+sunkadakatte,2,20,False
+mla layout,2,20,False
+andrahalli,2,20,False
+kodipalya,2,20,False
+kempegowda nagar,2,20,False
+annaiah reddy layout,2,20,False
+chokkanahalli,2,20,False
+someshwara layout,2,20,False
+"thanisandra main road,",2,20,False
+2nd block koramangala,2,20,False
+hoodi layout,2,20,False
+yeshwanthpur industrial suburb,2,20,False
+1st block bel layout,2,20,False
+thomas town,2,20,False
+chamundi nagar,2,20,False
+jinkethimmanahalli,2,20,False
+carmelaram,2,20,False
+hadosiddapura,2,20,False
+garebhavipalya,2,20,False
+sampigehalli,2,20,False
+hosur main road,2,20,False
+ferrar nagar,2,20,False
+mahaganapathy nagar,2,20,False
+rest house road,2,20,False
+frazertown,2,20,False
+sri venkateshpura layout,2,20,False
+chikka banaswadi,2,20,False
+vaderahalli,2,20,False
+old mangammanapalya road,1,20,False
+vasanthpura,1,20,False
+chikkajala,1,20,False
+bank avenue,1,20,False
+whitefiled,1,20,False
+cubbon road,1,20,False
+mathikere sbm colony,1,20,False
+sampangirama nagar,1,20,False
+hsr layout sector3,1,20,False
+sunder ram shetty nagar,1,20,False
+nti layout,1,20,False
+lakshmi layout,1,20,False
+anjananager magdi road,1,20,False
+bds layout,1,20,False
+"banashankari 6th stage , 2nd block",1,20,False
+"asha township, off hennur road",1,20,False
+doddabele,1,20,False
+"near electronic city,",1,20,False
+byappanahalli,1,20,False
+wheelers road,1,20,False
+"rmv extension stage 2, rmv extension",1,20,False
+prestige sunrise,1,20,False
+3rd block hbr layout,1,20,False
+malur hosur road,1,20,False
+kg halli jalhalli west,1,20,False
+"jayanagar,",1,20,False
+indra nagar,1,20,False
+hal old airport road,1,20,False
+annasandrapalya,1,20,False
+srigandada kaval,1,20,False
+duvasapalya,1,20,False
+dwaraka nagar,1,20,False
+rajasree layout,1,20,False
+rainbow drive,1,20,False
+okalipura,1,20,False
+virudhu nagar,1,20,False
+"kanakapura road,",1,20,False
+punappa layout,1,20,False
+shakthi nagar,1,20,False
+raja rajeshwari nagara,1,20,False
+soppahalli,1,20,False
+kyalasanahalli,1,20,False
+navodaya nagar,1,20,False
+lakshmiamma garden,1,20,False
+kuvempu layout,1,20,False
+madanayakahalli,1,20,False
+mrcr layout,1,20,False
+khb colony extension,1,20,False
+st. john's road,1,20,False
+subhash nagar,1,20,False
+jogupalya,1,20,False
+indira nagar 3rd stage,1,20,False
+konappana agrahara,1,20,False
+adugodi,1,20,False
+chikkabidarakallu,1,20,False
+duddanahalli,1,20,False
+nobo nagar,1,20,False
+sadahalli,1,20,False
+doctor layout rayasandra,1,20,False
+hal layout,1,20,False
+thirupalya,1,20,False
+mvj engineering college,1,20,False
+atmananda colony,1,20,False
+udayagiri,1,20,False
+btm layout 2nd stage 1st phase,1,20,False
+abshot layout,1,20,False
+viviani road,1,20,False
+arasanakunte,1,20,False
+ramanagara channapatna,1,20,False
+basaveswarnagar,1,20,False
+sarvobhogam nagar,1,20,False
+jagajyothi layout,1,20,False
+"lakshminarayanapura, electronic city phase 2",1,20,False
+basava nagar,1,20,False
+shetty halli,1,20,False
+"banasawadi,",1,20,False
+kadarenahalli,1,20,False
+millers road,1,20,False
+banashankari 6th stage,1,20,False
+tharabanahalli,1,20,False
+suragajakkanahalli,1,20,False
+gandhi bazar,1,20,False
+"bidere agarahara, behind safal market",1,20,False
+coffee board layout,1,20,False
+"6th block banashankari 3rd stage, 100 feet orr",1,20,False
+"pai layout , mahadevapura",1,20,False
+sarjapur bagalur road,1,20,False
+"epip area, whitefield",1,20,False
+maheswari nagar,1,20,False
+gkw layout,1,20,False
+muthyala nagar,1,20,False
+sk garden,1,20,False
+rmv extension stage 2,1,20,False
+nirman layout,1,20,False
+vidya nagar,1,20,False
+maruthi hbcs layout,1,20,False
+queens road,1,20,False
+escorts colony,1,20,False
+rammana layout,1,20,False
+mukkutam nagar,1,20,False
+huttanahalli,1,20,False
+kasthuri nagar east of ngef,1,20,False
+adarsh nagar,1,20,False
+lic colony,1,20,False
+sathanur,1,20,False
+"ananthanagar phase 1,electronic city , phase 2",1,20,False
+whitefield ecc road,1,20,False
+k g colony,1,20,False
+binnamangala,1,20,False
+t r mill road,1,20,False
+badrappa layout,1,20,False
+sundara nagar,1,20,False
+rajarajesheari nagar,1,20,False
+nanjappa garden,1,20,False
+poornaprajna layout,1,20,False
+sugama layout,1,20,False
+friends colony,1,20,False
+akshaya nagar t c palya,1,20,False
+south,1,20,False
+amarjyothi colony,1,20,False
+prakash nagar,1,20,False
+6th block jayanagar,1,20,False
+bapuji nagar,1,20,False
+sabari nagar,1,20,False
+1st stage radha krishna layout,1,20,False
+cmh road,1,20,False
+sonam layout,1,20,False
+jakkuryelahanka,1,20,False
+jeevanhalli,1,20,False
+bidrahalli,1,20,False
+deepanjali nagar,1,20,False
+neelasandra,1,20,False
+virgonagar,1,20,False
+akash nagar,1,20,False
+doddanakunte,1,20,False
+prasanth extension,1,20,False
+"yelahanka,mvit college",1,20,False
+laxminarayana layout,1,20,False
+maruthi layout,1,20,False
+high grounds,1,20,False
+narayanappa garden,1,20,False
+thurahalli,1,20,False
+t c palya,1,20,False
+"mei layout, bagalgunte",1,20,False
+billamaranahalli,1,20,False
+govindraja nagar,1,20,False
+v.v puram,1,20,False
+rahmath nagar,1,20,False
+chikbasavanapura,1,20,False
+subramanya nagar,1,20,False
+singena agrahara,1,20,False
+gb palya,1,20,False
+gulakamale,1,20,False
+ilyas nagar,1,20,False
+sarjapura main road,1,20,False
+dollar scheme colony,1,20,False
+gopal reddy layout,1,20,False
+bahubali nagar,1,20,False
+dhanalakshmi layout,1,20,False
+maruthi extension,1,20,False
+air view colony,1,20,False
+kalhalli,1,20,False
+sree narayana nagar,1,20,False
+rr nagar,1,20,False
+shivanagar,1,20,False
+1a block koramangala,1,20,False
+kg halli,1,20,False
+jaya nagar east,1,20,False
+thyagraj nagar,1,20,False
+harohalli,1,20,False
+jaladarsini layout,1,20,False
+zuzuvadi,1,20,False
+marathalli bridge,1,20,False
+hullahalli,1,20,False
+madavara,1,20,False
+b k nagar,1,20,False
+indira nagar stage 2,1,20,False
+ckikkakammana halli,1,20,False
+shingapura,1,20,False
+srinagar,1,20,False
+kodanda reddy layout,1,20,False
+chikkagubbi,1,20,False
+kathriguppe iv phase,1,20,False
+vimanapura,1,20,False
+ramaswamy palya - kammanahalli main road,1,20,False
+3rd stage raja rajeshwari nagar,1,20,False
+lalbagh road,1,20,False
+m.g road,1,20,False
+viswapriyanagar.begur road.bommanahalli.,1,20,False
+richmond road,1,20,False
+brigade road,1,20,False
+kanakapur main road,1,20,False
+kannur,1,20,False
+mailasandra,1,20,False
+bande nallasandra,1,20,False
+kengeri satellite town ( bda site),1,20,False
+cleveland town,1,20,False
+phase 1 kammasandra,1,20,False
+3rd phase iti layout,1,20,False
+asthagrama layout,1,20,False
+pillahalli,1,20,False
+anugrah layout,1,20,False
+sahyadri layout,1,20,False
+handenahalli,1,20,False
+kamakiya,1,20,False
+"banashankari 6th stage ,subramanyapura",1,20,False
+binny mills employees colony,1,20,False
+shauhardha layout,1,20,False
+ullal uppanagar,1,20,False
+west of chord road,1,20,False
+b y raveshwara nagar,1,20,False
+panduranga nagar,1,20,False
+4 bedroom farm house in bagalur,1,20,False
+chuchangatta colony,1,20,False
+infantry road,1,20,False
+kalasipalya,1,20,False
+agb layout,1,20,False
+banashankari stage 2,1,20,False
+nanjappa layout vidyaranyapura,1,20,False
+"hsr layout 7th sector,",1,20,False
+"haralur road,",1,20,False
+duo layout,1,20,False
+raghavendra nagar,1,20,False
+papareddipalya,1,20,False
+sulthangunta,1,20,False
+veer sandra,1,20,False
+bennigana halli,1,20,False
+chikkatirupathi,1,20,False
+"kudlu village,",1,20,False
+lal bahadur shastri nagar,1,20,False
+"maragondana halli, kr puram, old madras road",1,20,False
+bandepalya,1,20,False
+near ramanashree california resort,1,20,False
+sri sai layout,1,20,False
+chikku lakshmaiah layout,1,20,False
+rto ullalu,1,20,False
+"white field,kadugodi",1,20,False
+6th block rajaji nagar,1,20,False
+"banaswadi,",1,20,False
+hanuman nagar,1,20,False
+kanakapura main road,1,20,False
+bel layout,1,20,False
+marasandra,1,20,False
+kanakadasa layout,1,20,False
+bcc layout,1,20,False
+bharathnagar,1,20,False
+kpc layout,1,20,False
+rahat bagh,1,20,False
+addischetan layout,1,20,False
+malimakanapura,1,20,False
+elachenahalli,1,20,False
+green domain layout,1,20,False
+halanayakanahalli,1,20,False
+hommadevanahalli,1,20,False
+reliable woods layout,1,20,False
+pns layout,1,20,False
+bhattarahalli,1,20,False
+havanur extension,1,20,False
+chellikere,1,20,False
+chambenahalli,1,20,False
+vijaypura,1,20,False
+kumbhena agrahara,1,20,False
+indranagar  100ft road defence colony,1,20,False
+javarandoddi,1,20,False
+"jp nagar 8th phase,",1,20,False
+t c palya main road,1,20,False
+pulikeshi nagar,1,20,False
+bagur road,1,20,False
+guni agrahara,1,20,False
+banagirinagar,1,20,False
+allalasandra,1,20,False
+viswajit layout,1,20,False
+popular colony,1,20,False
+kothnoor dinne,1,20,False
+banashankari3rd stage bigbazar,1,20,False
+vadarpalya,1,20,False
+ring road nagarbhavi,1,20,False
+prasanti nagar,1,20,False
+venkateswara nagar,1,20,False
+ramchandrapuram,1,20,False
+rbi layout,1,20,False
+gandhi nagar,1,20,False
+howthinarayanappa garden,1,20,False
+"beml layout, basaveshwara nagar",1,20,False
+jakkasandra,1,20,False
+cambridge  road,1,20,False
+aavalahalli,1,20,False
+xavier layout,1,20,False
+chikkanahalli,1,20,False
+green woods layout,1,20,False
+vittal mallya road,1,20,False
+singapura paradise,1,20,False
+basvasamithi layout vidyaranyapura,1,20,False
+kadubisnahalli,1,20,False
+iggalur,1,20,False
+nagarbhavi garden villas layout,1,20,False
+bilal nagar,1,20,False
+celebrity paradise layout,1,20,False
+12th cross srinivas nagar banshankari 3rd stage,1,20,False
+kengeri satellite town stage ii,1,20,False
+vikram nagar,1,20,False
+sampige layout,1,20,False
+s r layout,1,20,False
+maruthi nagar kogilu,1,20,False
+jaymahal road,1,20,False
+shanthi pura,1,20,False
+brindavan layout,1,20,False
+d souza layout,1,20,False
+gidada konnenahalli,1,20,False
+"jp nagar 9th phase,",1,20,False
+rajankunte,1,20,False
+hanumagiri,1,20,False
+iti employees layout,1,20,False
+billapura,1,20,False
+ganga nagar extension,1,20,False
+"ecc road, whitefield,",1,20,False
+vasatha vallbha nagar,1,20,False
+adigondanhalli,1,20,False
+anathanagar,1,20,False
+karnataka shabarimala,1,20,False
+"kirloskar layout, basaveshwarnagar",1,20,False
+sbm colony,1,20,False
+chowdeshwari layout,1,20,False
+st thomas town,1,20,False
+junnasandra,1,20,False
+goraguntepalya,1,20,False
+vayunandana layout,1,20,False
+vasantapura main road,1,20,False
+soundarya layout,1,20,False
+gattigere,1,20,False
+mallappa layout,1,20,False
+behind don bosco church,1,20,False
+"basnashankari,6th stage,",1,20,False
+kanakapura main  road,1,20,False
+marenahalli,1,20,False
+sector 4 hsr layout,1,20,False
+near ullas theater,1,20,False
+vinayaka layout,1,20,False
+kumbalgodu,1,20,False
+"tr mill road, chamarajpet",1,20,False
+chaitanya ananya,1,20,False
+8th block jayanagar,1,20,False
+suryanagar,1,20,False
+banashankari 2 nd stage,1,20,False
+prasanna layout herohalli,1,20,False
+"ravindra nagar, t.dasarahalli peenya",1,20,False
+sundar ram shetty nagar,1,20,False
+bendiganahalli,1,20,False
+shirdi sai nagar,1,20,False
+anekal - hosur road,1,20,False
+keerthi layout,1,20,False
+ncpr industrial layout,1,20,False
+arekempanahalli,1,20,False
+ganganahalli,1,20,False
+sadduguntepalya,1,20,False
+lakshmipura vidyaanyapura,1,20,False
+kathreguppe,1,20,False
+gd layout,1,20,False
+rajapura,1,20,False
+5th block jayanagar,1,20,False
+koppa,1,20,False
+prakruthi nagar,1,20,False
+defence layout,1,20,False
+4th block hbr layout,1,20,False
+upkar layout,1,20,False
+ayappa nagar,1,20,False
+janatha colony,1,20,False
+milk colony,1,20,False
+vidhyanagar cross,1,20,False
+kanakapura road,1,20,False
+indiranagar hal 2nd stage,1,20,False
+achins road,1,20,False
+kamdhenu nagar,1,20,False
+veerabhadra nagar,1,20,False
+"gubbi cross, hennur main road",1,20,False
+cooketown,1,20,False
+sneha colony,1,20,False
+hennagara,1,20,False
+agara village,1,20,False
+5th stage beml layout,1,20,False
+bharat nagar,1,20,False
+hosahalli,1,20,False
+t g extension,1,20,False
+"banashankari 3rd stage, vivekanandanagar",1,20,False
+sankeswari,1,20,False
+sadhguru layout,1,20,False
+gokaula extension,1,20,False
+jayamahal extension,1,20,False
+kalkere channasandra,1,20,False
+dominic layout,1,20,False
+venkateshpuram,1,20,False
+satyasaibaba layout,1,20,False
+hosur rmain road,1,20,False
+"annapoorneshwari layout, jp nagar 7th phase",1,20,False
+nandi durga road,1,20,False
+chokkasandra,1,20,False
+rajanna layout,1,20,False

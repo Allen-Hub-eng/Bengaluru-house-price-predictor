@@ -1,0 +1,36 @@
+BENGALURU HOUSE PRICE PREDICTION
+STAGE 5.2: MODEL IMPROVEMENT EXPERIMENTS
+============================================================
+
+Training records: 9848
+Testing records: 2463
+
+MODEL COMPARISON
+                   Model     MAE     RMSE     R2  Median_Absolute_Error
+   B_Tuned_Random_Forest 34.4433  97.3043 0.5524                12.5241
+C_Log_Transformed_Target 34.5766 100.4870 0.5226                12.7680
+A_Baseline_Random_Forest 34.7594  97.7972 0.5479                13.2257
+
+PRICE-RANGE COMPARISON
+  price_group  property_count    MAE                    Model
+   0-50 lakhs             638  11.44 A_Baseline_Random_Forest
+100-200 lakhs             449  38.35 A_Baseline_Random_Forest
+200-500 lakhs             244  84.53 A_Baseline_Random_Forest
+ 50-100 lakhs            1069  16.41 A_Baseline_Random_Forest
+   500+ lakhs              63 363.89 A_Baseline_Random_Forest
+   0-50 lakhs             638  11.16    B_Tuned_Random_Forest
+100-200 lakhs             449  38.18    B_Tuned_Random_Forest
+200-500 lakhs             244  84.11    B_Tuned_Random_Forest
+ 50-100 lakhs            1069  16.19    B_Tuned_Random_Forest
+   500+ lakhs              63 360.94    B_Tuned_Random_Forest
+   0-50 lakhs             638  10.05 C_Log_Transformed_Target
+100-200 lakhs             449  35.35 C_Log_Transformed_Target
+200-500 lakhs             244  85.77 C_Log_Transformed_Target
+ 50-100 lakhs            1069  15.11 C_Log_Transformed_Target
+   500+ lakhs              63 409.50 C_Log_Transformed_Target
+
+Interpretation:
+Lower MAE and RMSE indicate smaller prediction errors.
+Higher R2 generally indicates better fit on this test split.
+The best model should be selected using multiple metrics
+and price-range performance, not a single metric alone.

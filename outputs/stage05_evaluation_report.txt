@@ -1,0 +1,15 @@
+BENGALURU HOUSE PRICE PREDICTION
+STAGE 5: MODEL EVALUATION REPORT
+=======================================================
+
+Training records: 9848
+Testing records: 2463
+
+Evaluation metrics:
+MAE: 34.7594 lakhs
+RMSE: 97.7972 lakhs
+R2: 0.5479
+
+Selected model: Random Forest Regressor
+
+Note: These metrics evaluate the model on the held-out test split. They do not guarantee the same performance on future properties.

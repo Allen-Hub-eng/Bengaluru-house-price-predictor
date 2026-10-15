@@ -1,0 +1,34 @@
+BENGALURU HOUSE PRICE CLEANING REPORT
+==================================================
+
+Original rows: 13320
+Final rows: 12671
+Rows removed: 649
+Duplicates removed: 529
+
+Final columns:
+['area_type', 'availability', 'location', 'size', 'society', 'total_sqft', 'bath', 'balcony', 'price', 'bhk', 'price_per_sqft']
+
+Missing values after cleaning:
+area_type            0
+availability         0
+location             0
+size                 0
+society           5295
+total_sqft           0
+bath                 0
+balcony            528
+price                0
+bhk                  0
+price_per_sqft       0
+
+Numerical summary:
+         total_sqft       bhk          bath         price  price_per_sqft
+count  12671.000000   12671.0  12671.000000  12671.000000    1.267100e+04
+mean    1565.157518  2.814932      2.707127    114.032706    8.037382e+03
+std     1258.886671   1.30982      1.355225    151.716572    1.089298e+05
+min        1.000000       1.0      1.000000      8.000000    2.678298e+02
+25%     1100.000000       2.0      2.000000     50.000000    4.298768e+03
+50%     1280.000000       3.0      2.000000     73.000000    5.483871e+03
+75%     1685.000000       3.0      3.000000    120.000000    7.404795e+03
+max    52272.000000      43.0     40.000000   3600.000000    1.200000e+07

@@ -1,0 +1,35 @@
+BENGALURU HOUSE PRICE PREDICTION
+STAGE 5.1: MODEL ERROR ANALYSIS
+=======================================================
+
+Dataset records: 12311
+Training records: 9848
+Testing records: 2463
+
+BASELINE MODEL PERFORMANCE
+-------------------------------------------------------
+MAE: 34.0931 lakhs
+RMSE: 101.4383 lakhs
+R2: 0.5136
+
+ERROR SUMMARY
+-------------------------------------------------------
+Mean absolute error: 34.0931 lakhs
+Median absolute error: 11.2128 lakhs
+90th percentile absolute error: 74.2880 lakhs
+95th percentile absolute error: 131.6003 lakhs
+Maximum absolute error: 2073.1513 lakhs
+
+IMPORTANT NOTE
+-------------------------------------------------------
+These results describe performance on the held-out test split.
+Large errors require investigation; they do not automatically
+mean the corresponding records should be removed.
+
+FILES GENERATED
+-------------------------------------------------------
+C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_all_predictions.csv
+C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_largest_errors.csv
+C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_price_range_analysis.csv
+C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_actual_vs_predicted.png
+C:\Users\LENOVO\OneDrive\Documents\House-Price-Predictor\outputs\stage05_1_error_distribution.png
